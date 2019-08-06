@@ -1,5 +1,7 @@
 # Linux tail 命令
 
+返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
 tail 命令可用于查看文件的内容，有一个常用的参数 **-f** 常用于查阅正在改变的日志文件。
 
 **tail -f filename** 会把 filename 文件里的最尾部的内容显示在屏幕上，并且不断刷新，只要 filename 更新就可以看到最新的文件内容。

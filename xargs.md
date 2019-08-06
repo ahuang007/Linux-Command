@@ -1,5 +1,7 @@
 # Linux xargs 命令
 
+返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
 xargs 是给命令传递参数的一个过滤器，也是组合多个命令的一个工具。
 
 xargs 可以将管道或标准输入（stdin）数据转换成命令行参数，也能够从文件的输出中读取数据。
