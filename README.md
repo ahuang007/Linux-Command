@@ -1,10 +1,9 @@
 # Linux 命令大全
-```
+``` md
 此文档来自：
 1. man [cmd]
 2. 指令使用实例 
 ```
-
 
 
 ## 1 文件管理
@@ -664,8 +663,7 @@
 
 ## 11 其他命令
 
-### [bc](C:\Users\Administrator\Desktop\code\Linux-Command\bc.md)
+[bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) 
+[tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) 
+[xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md)
 
-### tail
-
-### xargs
