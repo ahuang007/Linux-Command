@@ -3,6 +3,7 @@
 返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
 bc 命令是任意精度计算器语言，通常在linux下当计算器用
+`bc = Basic Calculator(基本计算器)`
 
 它类似基本的计算器，使用这个计算器可以做基本的数学运算
 
