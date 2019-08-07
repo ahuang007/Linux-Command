@@ -1,6 +1,6 @@
 # Linux tail 命令
 
-返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
 tail 命令可用于查看文件的内容，有一个常用的参数 **-f** 常用于查阅正在改变的日志文件。
 
@@ -106,3 +106,7 @@ tail [参数] [文件]
   }
 }
 ```
+
+
+
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)

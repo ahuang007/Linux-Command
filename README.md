@@ -3,7 +3,7 @@
 
 ## 1 文件管理
 
-| [cat](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chattr](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [cat](https://github.com/ahuang007/Linux-Command/blob/master/cat.md) | [chattr](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [chmod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [cmp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diff](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diffstat](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |

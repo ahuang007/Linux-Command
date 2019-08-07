@@ -1,6 +1,6 @@
 ### Linux bc 命令
 
-返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
 bc 命令是任意精度计算器语言，通常在linux下当计算器用
 `bc = Basic Calculator(基本计算器)`
@@ -103,3 +103,6 @@ $ echo "sqrt(100)" | bc
 10
 ```
 
+
+
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
