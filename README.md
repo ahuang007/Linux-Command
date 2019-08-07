@@ -100,7 +100,7 @@
 | [fwhios](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [sleep](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [suspend](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [groupdel](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [groupmod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [halt](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [kill](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [last](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [lastb](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [login](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [logname](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [logout](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [login](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [logname](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [logout](https://github.com/ahuang007/Linux-Command/blob/master/logout.md) |
 | [ps](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [nice](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [procinfo](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [top](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [ptree](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [reboot](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [rlogin](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [rsh](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [sliplogin](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
