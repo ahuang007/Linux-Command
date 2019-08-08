@@ -109,9 +109,9 @@
 | [tload](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [logrotate](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [uname](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [chsh](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [userconf](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [userdel](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [usermod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [vlock](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [who](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [whoami](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [whois](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [whoami](https://github.com/ahuang007/Linux-Command/blob/master/whoami.md) | [whois](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [renice](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [su](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [skill](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [w](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [id](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [w](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [id](https://github.com/ahuang007/Linux-Command/blob/master/id.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 
 ## 8 系统设置
 
