@@ -5,7 +5,7 @@
 
 | [cat](https://github.com/ahuang007/Linux-Command/blob/master/cat.md) | [chattr](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [chmod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [chmod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/cksum.md) |
 | [cmp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diff](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diffstat](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [file](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [find](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [git](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [gitview](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [indent](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cut](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
@@ -155,7 +155,7 @@
 
 | [bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) | [xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) |                                                              |                                                              |
+| [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) | [md5sum](https://github.com/ahuang007/Linux-Command/blob/master/md5sum.md) |                                                              |
 
 
 

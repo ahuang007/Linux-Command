@@ -1,4 +1,4 @@
-# Linux logout命令
+# Linux logout 命令
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
