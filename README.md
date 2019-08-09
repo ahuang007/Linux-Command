@@ -25,7 +25,7 @@
 
 ## 2 文档编辑
 
-| [col](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [colrm](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [comm](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [col](https://github.com/ahuang007/Linux-Command/blob/master/col.md) | [colrm](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [comm](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [csplit](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [ed](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [egrep](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [ex](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [fgrep](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [fmt](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |

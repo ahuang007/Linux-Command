@@ -1,6 +1,6 @@
 ### Linux cal 命令
 
-返回[Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
 cal 命令可以用来显示公历（阳历）日历。 
 
@@ -118,3 +118,6 @@ cal [ 参数 ] [ 月份 ] [ 年份 ]
 19 20 21 22 23 24 25
 26 27 28 29 30 31
 ```
+
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
