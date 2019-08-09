@@ -3,25 +3,25 @@
 
 ## 1 文件管理
 
-| [cat](https://github.com/ahuang007/Linux-Command/blob/master/cat.md) | [chattr](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chgrp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [cat](https://github.com/ahuang007/Linux-Command/blob/master/cat.md) | [chattr](https://github.com/ahuang007/Linux-Command/blob/master/chattr.md) | [chgrp](https://github.com/ahuang007/Linux-Command/blob/master/chgrp.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [chmod](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/cksum.md) |
-| [cmp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diff](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [diffstat](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [file](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [find](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [git](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [gitview](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [indent](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cut](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [ln](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [less](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [locate](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [lsattr](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mattrib](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [mdel](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mdir](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mktemp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [more](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mmove](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mread](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [mren](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mtools](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mtoolstest](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [mv](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [od](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [paste](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [patch](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [rcp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [rm](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [slocate](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [split](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tee](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [tmpwatch](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [touch](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [umask](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [which](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [whereis](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [rhmask](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [scp](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [awk](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [read](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [updatedb](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |                                                              |                                                              |
+| [chmod](https://github.com/ahuang007/Linux-Command/blob/master/chmod.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/chown.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/cksum.md) |
+| [cmp](https://github.com/ahuang007/Linux-Command/blob/master/cmp.md) | [diff](https://github.com/ahuang007/Linux-Command/blob/master/diff.md) | [diffstat](https://github.com/ahuang007/Linux-Command/blob/master/diffstat.md) |
+| [file](https://github.com/ahuang007/Linux-Command/blob/master/file.md) | [find](https://github.com/ahuang007/Linux-Command/blob/master/find.md) | [git](https://github.com/ahuang007/Linux-Command/blob/master/git.md) |
+| [gitview](https://github.com/ahuang007/Linux-Command/blob/master/gitview.md) | [indent](https://github.com/ahuang007/Linux-Command/blob/master/indent.md) | [cut](https://github.com/ahuang007/Linux-Command/blob/master/cut.md) |
+| [ln](https://github.com/ahuang007/Linux-Command/blob/master/ln.md) | [less](https://github.com/ahuang007/Linux-Command/blob/master/less.md) | [locate](https://github.com/ahuang007/Linux-Command/blob/master/locate.md) |
+| [lsattr](https://github.com/ahuang007/Linux-Command/blob/master/lsattr.md) | [mattrib](https://github.com/ahuang007/Linux-Command/blob/master/mattrib.md) | [mc](https://github.com/ahuang007/Linux-Command/blob/master/mc.md) |
+| [mdel](https://github.com/ahuang007/Linux-Command/blob/master/mdel.md) | [mdir](https://github.com/ahuang007/Linux-Command/blob/master/mdir.md) | [mktemp](https://github.com/ahuang007/Linux-Command/blob/master/mktemp.md) |
+| [more](https://github.com/ahuang007/Linux-Command/blob/master/more.md) | [mmove](https://github.com/ahuang007/Linux-Command/blob/master/mmove.md) | [mread](https://github.com/ahuang007/Linux-Command/blob/master/mread.md) |
+| [mren](https://github.com/ahuang007/Linux-Command/blob/master/mren.md) | [mtools](https://github.com/ahuang007/Linux-Command/blob/master/mtools.md) | [mtoolstest](https://github.com/ahuang007/Linux-Command/blob/master/mtoolstest.md) |
+| [mv](https://github.com/ahuang007/Linux-Command/blob/master/mv.md) | [od](https://github.com/ahuang007/Linux-Command/blob/master/od.md) | [paste](https://github.com/ahuang007/Linux-Command/blob/master/paste.md) |
+| [patch](https://github.com/ahuang007/Linux-Command/blob/master/patch.md) | [rcp](https://github.com/ahuang007/Linux-Command/blob/master/rcp.md) | [rm](https://github.com/ahuang007/Linux-Command/blob/master/rm.md) |
+| [slocate](https://github.com/ahuang007/Linux-Command/blob/master/slocate.md) | [split](https://github.com/ahuang007/Linux-Command/blob/master/split.md) | [tee](https://github.com/ahuang007/Linux-Command/blob/master/tee.md) |
+| [tmpwatch](https://github.com/ahuang007/Linux-Command/blob/master/tmpwatch.md) | [touch](https://github.com/ahuang007/Linux-Command/blob/master/touch.md) | [umask](https://github.com/ahuang007/Linux-Command/blob/master/umask.md) |
+| [which](https://github.com/ahuang007/Linux-Command/blob/master/which.md) | [cp](https://github.com/ahuang007/Linux-Command/blob/master/cp.md) | [whereis](https://github.com/ahuang007/Linux-Command/blob/master/whereis.md) |
+| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) | [rhmask](https://github.com/ahuang007/Linux-Command/blob/master/rhmask.md) |
+| [scp](https://github.com/ahuang007/Linux-Command/blob/master/scp.md) | [awk](https://github.com/ahuang007/Linux-Command/blob/master/awk.md) | [read](https://github.com/ahuang007/Linux-Command/blob/master/read.md) |
+| [updatedb](https://github.com/ahuang007/Linux-Command/blob/master/updatedb.md) |                                                              |                                                              |
 
 ## 2 文档编辑
 
@@ -136,27 +136,23 @@
 
 ## 9 备份压缩
 
-| [ar](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [bunzip2](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [bzip2](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [ar](https://github.com/ahuang007/Linux-Command/blob/master/ar.md) | [bunzip2](https://github.com/ahuang007/Linux-Command/blob/master/bunzip2.md) | [bzip2](https://github.com/ahuang007/Linux-Command/blob/master/bzip2.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [bzip2recover](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [gunzip](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [unarj](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [compress](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [cpio](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [dump](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [uuencode](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [gzexe](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [gzip](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [lha](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [restore](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tar](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [uudecode](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [zip](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
-| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |                                                              |                                                              |
+| [bzip2recover](https://github.com/ahuang007/Linux-Command/blob/master/bzip2recover.md) | [gunzip](https://github.com/ahuang007/Linux-Command/blob/master/gunzip.md) | [unarj](https://github.com/ahuang007/Linux-Command/blob/master/unarj.md) |
+| [compress](https://github.com/ahuang007/Linux-Command/blob/master/compress.md) | [cpio](https://github.com/ahuang007/Linux-Command/blob/master/cpio.md) | [dump](https://github.com/ahuang007/Linux-Command/blob/master/dump.md) |
+| [uuencode](https://github.com/ahuang007/Linux-Command/blob/master/uuencode.md) | [gzexe](https://github.com/ahuang007/Linux-Command/blob/master/gzexe.md) | [gzip](https://github.com/ahuang007/Linux-Command/blob/master/gzip.md) |
+| [lha](https://github.com/ahuang007/Linux-Command/blob/master/lha.md) | [restore](https://github.com/ahuang007/Linux-Command/blob/master/restore.md) | [tar](https://github.com/ahuang007/Linux-Command/blob/master/tar.md) |
+| [uudecode](https://github.com/ahuang007/Linux-Command/blob/master/uudecode.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/unzip.md) | [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) |
+| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/zipinfo.md) |                                                              |                                                              |
 
 ## 10 设置管理
 
-| [setleds](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [loadkeys](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [rdev](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
+| [setleds](https://github.com/ahuang007/Linux-Command/blob/master/setleds.md) | [loadkeys](https://github.com/ahuang007/Linux-Command/blob/master/loadkeys.md) | [rdev](https://github.com/ahuang007/Linux-Command/blob/master/rdev.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [MAKEDEV](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |                                                              |
+| [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/dumpkeys.md) | [MAKEDEV](https://github.com/ahuang007/Linux-Command/blob/master/MAKEDEV.md) |                                                              |
 
 ## 11 其他命令
 
 | [bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) | [xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) | [md5sum](https://github.com/ahuang007/Linux-Command/blob/master/md5sum.md) |                                                              |
-
-
-
-

@@ -21,7 +21,7 @@ col [-bfx][-l<缓冲区列数>]
 
 ### 实例
 
-下面以 gcc 命令帮助文档为例，讲解 col 命令的使用。
+下面以 [gcc](https://github.com/ahuang007/Linux-Command/blob/master/gcc.md) 命令帮助文档为例，讲解 col 命令的使用。
 
 将 gcc 命令的帮助文档保存为 gcc.txt，分别是不使用 col 和 使用 col -b 参数过滤所有控制字符。
 

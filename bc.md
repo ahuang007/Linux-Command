@@ -40,12 +40,12 @@ bc 命令是任意精度计算器语言，通常在linux下当计算器用
 
 **实例**
 
-```shell
-$ bc
+```
+[huanglijun@localhost ~]$ bc
 bc 1.06.95
 Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006 Free Software Foundation, Inc.
 This is free software with ABSOLUTELY NO WARRANTY.
-For details type `warranty'.
+For details type `warranty'. 
 2+3
 5
 5-2
@@ -59,7 +59,7 @@ For details type `warranty'.
 **通过管道符**
 
 ```shell
-$ echo "15+5" | bc
+[huanglijun@localhost ~]$ echo "15+5" | bc
 20
 ```
 
@@ -67,15 +67,22 @@ $ echo "15+5" | bc
 scale=2 设小数位，2 代表保留两位:
 
 ```shell
-$ echo 'scale=2; (2.777 - 1.4744)/1' | bc
+[huanglijun@localhost ~]$ echo "scale=2;(2.777-1.4744)/1" | bc
 1.30
 ```
 
 bc 除了 scale 来设定小数位之外，还有 ibase 和 obase 来其它进制的运算:
 
 ```shell
-$ echo "ibase=2;111" |bc
+# 将2进制转成10进制
+[huanglijun@localhost ~]$ echo "ibase=2;111" | bc
 7
+# 将10进制转成16进制
+[huanglijun@localhost ~]$ echo "obase=16;15" | bc
+F
+# 将10进制转成2进制
+[huanglijun@localhost ~]$ echo "obase=2;15" | bc 
+1111
 ```
 
 **进制转换**
@@ -97,10 +104,10 @@ echo "obase=10;ibase=2;$abc" | bc
 计算平方和平方根：
 
 ```shell
-$ echo "10^10" | bc 
+[huanglijun@localhost ~]$ echo "10^10" | bc
 10000000000
-$ echo "sqrt(100)" | bc
-10
+[huanglijun@localhost ~]$ echo "sqrt(10000)" | bc
+100
 ```
 
 
