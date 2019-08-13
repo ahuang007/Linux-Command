@@ -1,5 +1,7 @@
 # Linux chmod 命令
 
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
 `chmod = change mode`
 
 Linux/Unix 的文件调用权限分为三级 : 文件拥有者、群组、其他。
@@ -89,45 +91,10 @@ chmod abc file
 - 若要rw-属性则4+2=6；
 - 若要r-x属性则4+1=5。
 
-```
-chmod a=rwx file
-```
+`chmod a=rwx file` 和 `chmod 777 file` 效果相同
 
-和
-
-```
-chmod 777 file
-```
-
-效果相同
-
-```
-chmod ug=rwx,o=x file
-```
-
-和
-
-```
-chmod 771 file
-```
-
-效果相同
+`chmod ug=rwx,o=x file` 和 `chmod 771 file`效果相同
 
 **若用chmod 4755 filename可使此程序具有root的权限**
 
-查看文件属性 ll
-
-```
-[huanglijun@localhost ~]$ ll
-总用量 8
-drwxr-xr-x  7 huanglijun huanglijun   78 6月  28 09:37 linux
-drwxr-xr-x 32 huanglijun huanglijun 4096 7月  29 10:30 protocol
--rwxr--r--  1 huanglijun huanglijun   70 5月  25 14:01 SvnUpdate.bat
--rwxr-xr-x  1 huanglijun huanglijun    0 8月  12 10:08 test.txt
-```
-
-第一个d 标识是否为文件夹
-
-后面分别为  User、Group、及 Other 的权限。 
-
-r 可读 w 可写 x 可执行 - 表示无 
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)

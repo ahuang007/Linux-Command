@@ -64,7 +64,7 @@ ps -ef | less
    77  ls
    78  file /bin/ls
    79  cat /proc/cpuinfo 
-……省略……
+   ...
 ```
 
 4、浏览多个文件

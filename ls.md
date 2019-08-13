@@ -1,5 +1,7 @@
 # Linux ls 命令
 
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
 `ls = list`
 
 * 注： ll 不是  linux  命令  `ll = ls -l ` 相当于快捷方式
@@ -53,3 +55,22 @@ lrwxrwxrwx. 1 root root 7 1月   3 2019 /bin -> usr/bin
 .git/       .idea/     README.md*  common/  luaclib/  lualib-src/  service/  skynet/
 .gitignore  Makefile*  busilog/    log/     lualib/   release/     sh/
 ```
+
+查看当前目录文件属性 ll
+
+```
+[huanglijun@localhost ~]$ ll
+总用量 8
+drwxr-xr-x  7 huanglijun huanglijun   78 6月  28 09:37 linux
+drwxr-xr-x 32 huanglijun huanglijun 4096 7月  29 10:30 protocol
+-rwxr--r--  1 huanglijun huanglijun   70 5月  25 14:01 SvnUpdate.bat
+-rwxr-xr-x  1 huanglijun huanglijun    0 8月  12 10:08 test.txt
+```
+
+第一个d 标识是否为文件夹
+
+后面分别为  User、Group、及 Other 的权限。 
+
+r 可读 w 可写 x 可执行 - 表示无 
+
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
