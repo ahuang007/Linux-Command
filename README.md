@@ -109,9 +109,9 @@
 | [tload](https://github.com/ahuang007/Linux-Command/blob/master/tload.md) | [logrotate](https://github.com/ahuang007/Linux-Command/blob/master/logrotate.md) | [uname](https://github.com/ahuang007/Linux-Command/blob/master/uname.md) |
 | [chsh](https://github.com/ahuang007/Linux-Command/blob/master/chsh.md) | [userconf](https://github.com/ahuang007/Linux-Command/blob/master/userconf.md) | [userdel](https://github.com/ahuang007/Linux-Command/blob/master/userdel.md) |
 | [usermod](https://github.com/ahuang007/Linux-Command/blob/master/usermod.md) | [vlock](https://github.com/ahuang007/Linux-Command/blob/master/vlock.md) | [who](https://github.com/ahuang007/Linux-Command/blob/master/who.md) |
-| [whoami](https://github.com/ahuang007/Linux-Command/blob/master/whoami.md) | [whois](https://github.com/ahuang007/Linux-Command/blob/master/whois.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/newgrp.md) |
+| [whoami](https://github.com/ahuang007/Linux-Command/blob/master/whoami.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/free.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/newgrp.md) |
 | [renice](https://github.com/ahuang007/Linux-Command/blob/master/renice.md) | [su](https://github.com/ahuang007/Linux-Command/blob/master/su.md) | [skill](https://github.com/ahuang007/Linux-Command/blob/master/skill.md) |
-| [w](https://github.com/ahuang007/Linux-Command/blob/master/w.md) | [id](https://github.com/ahuang007/Linux-Command/blob/master/id.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/free.md) |
+| [w](https://github.com/ahuang007/Linux-Command/blob/master/w.md) | [id](https://github.com/ahuang007/Linux-Command/blob/master/id.md) |                                                              |
 
 ## 8 系统设置
 
