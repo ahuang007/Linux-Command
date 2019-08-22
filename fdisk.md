@@ -41,95 +41,41 @@ fdisk [必要参数][选择参数]
 显示当前分区情况：
 
 ```
-[huanglijun@localhost project]$ sudo fdisk -l
-WARNING: fdisk GPT support is currently new, and therefore in an experimental phase. Use at your own discretion.
+[root@server ~ ]$ fdisk -l
 
-磁盘 /dev/nvme0n1：250.1 GB, 250059350016 字节，488397168 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-磁盘标签类型：gpt
+Disk /dev/sda: 42.9 GB, 42949672960 bytes
+255 heads, 63 sectors/track, 5221 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00056520
 
-
-#         Start          End    Size  Type            Name
- 1         2048    488396799  232.9G  Linux LVM       
-WARNING: fdisk GPT support is currently new, and therefore in an experimental phase. Use at your own discretion.
-
-磁盘 /dev/sda：2000.4 GB, 2000398934016 字节，3907029168 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 4096 字节
-I/O 大小(最小/最佳)：4096 字节 / 4096 字节
-磁盘标签类型：gpt
-
-
-#         Start          End    Size  Type            Name
- 1         2048       411647    200M  EFI System      EFI System Partition
- 2       411648      2508799      1G  Microsoft basic 
- 3      2508800   3907028991    1.8T  Linux LVM       
-
-磁盘 /dev/mapper/cl-root：53.7 GB, 53687091200 字节，104857600 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-
-
-磁盘 /dev/mapper/cl-swap：16.8 GB, 16844324864 字节，32899072 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-
-
-磁盘 /dev/mapper/cl-home：2178.6 GB, 2178630549504 字节，4255137792 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 4096 字节
-I/O 大小(最小/最佳)：4096 字节 / 4096 字节
-
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *           1          39      307200   83  Linux
+Partition 1 does not end on cylinder boundary.
+/dev/sda2              39         549     4096000   82  Linux swap / Solaris
+Partition 2 does not end on cylinder boundary.
+/dev/sda3             549        5222    37538816   83  Linux
 ```
 
 显示SCSI硬盘的每个分区情况
 
 ```
-WARNING: fdisk GPT support is currently new, and therefore in an experimental phase. Use at your own discretion.
+[root@server ~ ]$ fdisk -lu
 
-磁盘 /dev/nvme0n1：250.1 GB, 250059350016 字节，488397168 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-磁盘标签类型：gpt
+Disk /dev/sda: 42.9 GB, 42949672960 bytes
+255 heads, 63 sectors/track, 5221 cylinders, total 83886080 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00056520
 
-
-#         Start          End    Size  Type            Name
- 1         2048    488396799  232.9G  Linux LVM       
-WARNING: fdisk GPT support is currently new, and therefore in an experimental phase. Use at your own discretion.
-
-磁盘 /dev/sda：2000.4 GB, 2000398934016 字节，3907029168 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 4096 字节
-I/O 大小(最小/最佳)：4096 字节 / 4096 字节
-磁盘标签类型：gpt
-
-
-#         Start          End    Size  Type            Name
- 1         2048       411647    200M  EFI System      EFI System Partition
- 2       411648      2508799      1G  Microsoft basic 
- 3      2508800   3907028991    1.8T  Linux LVM       
-
-磁盘 /dev/mapper/cl-root：53.7 GB, 53687091200 字节，104857600 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-
-
-磁盘 /dev/mapper/cl-swap：16.8 GB, 16844324864 字节，32899072 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 512 字节
-I/O 大小(最小/最佳)：512 字节 / 512 字节
-
-
-磁盘 /dev/mapper/cl-home：2178.6 GB, 2178630549504 字节，4255137792 个扇区
-Units = 扇区 of 1 * 512 = 512 bytes
-扇区大小(逻辑/物理)：512 字节 / 4096 字节
-I/O 大小(最小/最佳)：4096 字节 / 4096 字节
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *        2048      616447      307200   83  Linux
+Partition 1 does not end on cylinder boundary.
+/dev/sda2          616448     8808447     4096000   82  Linux swap / Solaris
+Partition 2 does not end on cylinder boundary.
+/dev/sda3         8808448    83886079    37538816   83  Linux
 ```
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)

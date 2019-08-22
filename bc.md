@@ -1,4 +1,4 @@
-### Linux bc 命令
+# Linux bc 命令
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
