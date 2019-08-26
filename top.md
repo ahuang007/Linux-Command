@@ -95,45 +95,12 @@ Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
 
 ```
 [root@server StressTest ]$ top -S
-top - 09:54:34 up 20 min,  2 users,  load average: 0.01, 0.02, 0.01
-Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
-Cpu(s):  0.2%us,  0.5%sy,  0.1%ni, 98.0%id,  1.2%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   1913608k total,   835360k used,  1078248k free,    86672k buffers
-Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
-
-  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                       
-    1 root      20   0 19316 1588 1264 S  0.0  0.1   0:09.80 init                                                                                                           
-    2 root      20   0     0    0    0 S  0.0  0.0   0:00.01 kthreadd                                                                                                       
-    3 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/0                                                                                                    
-    4 root      20   0     0    0    0 S  0.0  0.0   0:00.01 ksoftirqd/0                                                                                                    
-    5 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/0                                                                                                      
-    6 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/0                                                                                                     
-    7 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/1                                                                                                    
-    8 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/1                                                                                                      
-    9 root      20   0     0    0    0 S  0.0  0.0   0:00.00 ksoftirqd/1                                                                                                    
-   10 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/1 
 ```
 
 设置信息更新次数
 
 ```
 [root@server StressTest ]$ top -n 2
-top - 09:55:03 up 21 min,  2 users,  load average: 0.00, 0.02, 0.00
-Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
-Cpu(s):  0.0%us,  0.2%sy,  0.0%ni, 99.8%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   1913608k total,   835500k used,  1078108k free,    86672k buffers
-Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
-
-  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                       
- 3835 root      20   0  172m  29m 1896 S  3.3  1.6   0:02.34 skynet                                                                                                         
- 3925 root      20   0 15000 1328  956 R  0.3  0.1   0:00.01 top                                                                                                            
-    1 root      20   0 19316 1588 1264 S  0.0  0.1   0:01.31 init                                                                                                           
-    2 root      20   0     0    0    0 S  0.0  0.0   0:00.01 kthreadd                                                                                                       
-    3 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/0                                                                                                    
-    4 root      20   0     0    0    0 S  0.0  0.0   0:00.01 ksoftirqd/0                                                                                                    
-    5 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/0                                                                                                      
-    6 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/0  
-
 //表示更新两次后终止更新显示
 ```
 
@@ -141,26 +108,6 @@ Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
 
 ```
 [root@server StressTest ]$ top -d 3
-top - 09:55:34 up 21 min,  2 users,  load average: 0.00, 0.01, 0.00
-Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
-Cpu(s):  0.0%us,  0.1%sy,  0.0%ni, 99.9%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   1913608k total,   846440k used,  1067168k free,    86672k buffers
-Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
-
-  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                       
- 3835 root      20   0  172m  40m 1896 S  1.7  2.1   0:02.92 skynet                                                                                                         
- 3164 root      20   0  335m  10m 7940 S  0.3  0.5   0:00.24 gnome-settings-                                                                                                
- 3199 root      20   0  435m  19m  12m S  0.3  1.0   0:00.76 nautilus                                                                                                       
- 3212 root      20   0  248m  26m  20m S  0.3  1.4   0:02.06 vmtoolsd                                                                                                       
- 3652 root      30  10  163m  31m 4880 S  0.3  1.7   0:02.35 slideshow                                                                                                      
- 3952 root      20   0 15000 1336  960 R  0.3  0.1   0:00.01 top                                                                                                            
-    1 root      20   0 19316 1588 1264 S  0.0  0.1   0:01.31 init                                                                                                           
-    2 root      20   0     0    0    0 S  0.0  0.0   0:00.01 kthreadd                                                                                                       
-    3 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/0                                                                                                    
-    4 root      20   0     0    0    0 S  0.0  0.0   0:00.01 ksoftirqd/0                                                                                                    
-    5 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/0                                                                                                      
-    6 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/0  
-
 //表示更新周期为3秒
 ```
 
@@ -184,42 +131,12 @@ Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
 
 ```
 [root@server StressTest ]$ top -n 10
-top - 09:56:31 up 22 min,  2 users,  load average: 0.00, 0.01, 0.00
-Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
-Cpu(s):  0.2%us,  0.5%sy,  0.1%ni, 98.1%id,  1.1%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   1913608k total,   845612k used,  1067996k free,    86672k buffers
-Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
-
-  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                       
- 3652 root      30  10  163m  31m 4880 S 11.9  1.7   0:02.73 slideshow                                                                                                      
- 2926 root      20   0  229m  43m   9m S  2.0  2.3   0:09.27 Xorg                                                                                                           
-    1 root      20   0 19316 1588 1264 S  0.0  0.1   0:01.31 init                                                                                                           
-    2 root      20   0     0    0    0 S  0.0  0.0   0:00.01 kthreadd                                                                                                       
-    3 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/0                                                                                                    
-    4 root      20   0     0    0    0 S  0.0  0.0   0:00.01 ksoftirqd/0                                                                                                    
-    5 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/0                                                                                                      
-    6 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/0
 ```
 
 使用者将不能利用交谈式指令来对行程下命令
 
 ```
 [root@server StressTest ]$ top -s
-top - 09:57:14 up 23 min,  2 users,  load average: 0.00, 0.00, 0.00
-Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
-Cpu(s):  0.2%us,  0.5%sy,  0.1%ni, 98.1%id,  1.1%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   1913608k total,   845916k used,  1067692k free,    86672k buffers
-Swap:  4095996k total,        0k used,  4095996k free,   246932k cached
-
-  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                       
- 3835 root      20   0  172m  40m 1896 S  4.0  2.1   0:04.50 skynet                                                                                                         
-   21 root      20   0     0    0    0 S  2.0  0.0   0:01.09 events/2                                                                                                       
-    1 root      20   0 19316 1588 1264 S  0.0  0.1   0:01.31 init                                                                                                           
-    2 root      20   0     0    0    0 S  0.0  0.0   0:00.01 kthreadd                                                                                                       
-    3 root      RT   0     0    0    0 S  0.0  0.0   0:00.01 migration/0                                                                                                    
-    4 root      20   0     0    0    0 S  0.0  0.0   0:00.01 ksoftirqd/0                                                                                                    
-    5 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 stopper/0                                                                                                      
-    6 root      RT   0     0    0    0 S  0.0  0.0   0:00.00 watchdog/0  
 ```
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)

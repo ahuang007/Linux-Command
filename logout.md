@@ -4,7 +4,11 @@
 
 Linux logout命令用于退出系统。
 
-logout指令让用户退出系统，其功能和login指令相互对应。
+logout 指令让用户退出系统，其功能和 [login](https://github.com/ahuang007/Linux-Command/blob/master/login.md) 指令相互对应。
+
+相似指令 [exit](https://github.com/ahuang007/Linux-Command/blob/master/exit.md)
+
+区别：logout 退出时会执行 ~/.bash_logout（如果有的话），而 exit 只会作退出工作而不执行~/.bash_logout。
 
 ### 语法
 
