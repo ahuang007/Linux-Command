@@ -2,6 +2,8 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
+`cd = Change directory`
+
 Linux cd 命令用于切换当前工作目录至 dirName(目录参数)。
 
 其中 dirName 表示法可为绝对路径或相对路径。若目录名称省略，则变换至使用者的 home 目录 (也就是刚 login 时所在的目录)。

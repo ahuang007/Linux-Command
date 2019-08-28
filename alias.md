@@ -2,6 +2,8 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
+相反指令  [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md)
+
 Linux alias 命令用于设置指令的别名。
 
 用户可利用 alias，自定指令的别名。若仅输入 alias，则可列出目前所有的别名设置。alias 的效力仅及于该次登入的操作。若要每次登入是即自动设好别名，可在 .profile 或 .cshrc 中设定指令的别名。
