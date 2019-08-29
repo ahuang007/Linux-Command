@@ -2,6 +2,8 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
+`lsmod = List Modules`
+
 Linux lsmod 命令用于显示已载入系统的模块。
 
 执行 lsmod(list modules) 指令，会列出所有已载入系统的模块。Linux 操作系统的核心具有模块化的特性，应此在编译核心时，务须把全部的功能都放入核心。您可以将这些功能编译成一个个单独的模块，待需要时再分别载入。
