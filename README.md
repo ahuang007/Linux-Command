@@ -7,8 +7,8 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [chmod](https://github.com/ahuang007/Linux-Command/blob/master/chmod.md) | [chown](https://github.com/ahuang007/Linux-Command/blob/master/chown.md) | [cksum](https://github.com/ahuang007/Linux-Command/blob/master/cksum.md) |
 | [cmp](https://github.com/ahuang007/Linux-Command/blob/master/cmp.md) | [diff](https://github.com/ahuang007/Linux-Command/blob/master/diff.md) | [diffstat](https://github.com/ahuang007/Linux-Command/blob/master/diffstat.md) |
-| [file](https://github.com/ahuang007/Linux-Command/blob/master/file.md) | [find](https://github.com/ahuang007/Linux-Command/blob/master/find.md) | [git](https://github.com/ahuang007/Linux-Command/blob/master/git.md) |
-| [gitview](https://github.com/ahuang007/Linux-Command/blob/master/gitview.md) | [indent](https://github.com/ahuang007/Linux-Command/blob/master/indent.md) | [cut](https://github.com/ahuang007/Linux-Command/blob/master/cut.md) |
+| [file](https://github.com/ahuang007/Linux-Command/blob/master/file.md) | [find](https://github.com/ahuang007/Linux-Command/blob/master/find.md) | [read](https://github.com/ahuang007/Linux-Command/blob/master/read.md) |
+| [awk](https://github.com/ahuang007/Linux-Command/blob/master/awk.md) | [indent](https://github.com/ahuang007/Linux-Command/blob/master/indent.md) | [cut](https://github.com/ahuang007/Linux-Command/blob/master/cut.md) |
 | [ln](https://github.com/ahuang007/Linux-Command/blob/master/ln.md) | [less](https://github.com/ahuang007/Linux-Command/blob/master/less.md) | [locate](https://github.com/ahuang007/Linux-Command/blob/master/locate.md) |
 | [lsattr](https://github.com/ahuang007/Linux-Command/blob/master/lsattr.md) | [mattrib](https://github.com/ahuang007/Linux-Command/blob/master/mattrib.md) | [mc](https://github.com/ahuang007/Linux-Command/blob/master/mc.md) |
 | [mdel](https://github.com/ahuang007/Linux-Command/blob/master/mdel.md) | [mdir](https://github.com/ahuang007/Linux-Command/blob/master/mdir.md) | [mktemp](https://github.com/ahuang007/Linux-Command/blob/master/mktemp.md) |
@@ -20,7 +20,7 @@
 | [tmpwatch](https://github.com/ahuang007/Linux-Command/blob/master/tmpwatch.md) | [touch](https://github.com/ahuang007/Linux-Command/blob/master/touch.md) | [umask](https://github.com/ahuang007/Linux-Command/blob/master/umask.md) |
 | [which](https://github.com/ahuang007/Linux-Command/blob/master/which.md) | [cp](https://github.com/ahuang007/Linux-Command/blob/master/cp.md) | [whereis](https://github.com/ahuang007/Linux-Command/blob/master/whereis.md) |
 | [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) | [rhmask](https://github.com/ahuang007/Linux-Command/blob/master/rhmask.md) |
-| [scp](https://github.com/ahuang007/Linux-Command/blob/master/scp.md) | [awk](https://github.com/ahuang007/Linux-Command/blob/master/awk.md) | [read](https://github.com/ahuang007/Linux-Command/blob/master/read.md) |
+| [scp](https://github.com/ahuang007/Linux-Command/blob/master/scp.md) |                                                              |                                                              |
 
 ## 2 文档编辑
 
