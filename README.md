@@ -124,14 +124,13 @@
 | [insmod](https://github.com/ahuang007/Linux-Command/blob/master/insmod.md) | [kbdconfig](https://github.com/ahuang007/Linux-Command/blob/master/kbdconfig.md) | [lilo](https://github.com/ahuang007/Linux-Command/blob/master/lilo.md) |
 | [liloconfig](https://github.com/ahuang007/Linux-Command/blob/master/liloconfig.md) | [lsmod](https://github.com/ahuang007/Linux-Command/blob/master/lsmod.md) | [minfo](https://github.com/ahuang007/Linux-Command/blob/master/minfo.md) |
 | [set](https://github.com/ahuang007/Linux-Command/blob/master/set.md) | [modprobe](https://github.com/ahuang007/Linux-Command/blob/master/modprobe.md) | [ntsysv](https://github.com/ahuang007/Linux-Command/blob/master/ntsysv.md) |
-| [mouseconfig](https://github.com/ahuang007/Linux-Command/blob/master/mouseconfig.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
+| [fbset](https://github.com/ahuang007/Linux-Command/blob/master/fbset.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
 | [rdate](https://github.com/ahuang007/Linux-Command/blob/master/rdate.md) | [resize](https://github.com/ahuang007/Linux-Command/blob/master/resize.md) | [rmmod](https://github.com/ahuang007/Linux-Command/blob/master/rmmod.md) |
 | [grpunconv](https://github.com/ahuang007/Linux-Command/blob/master/grpunconv.md) | [modinfo](https://github.com/ahuang007/Linux-Command/blob/master/modinfo.md) | [time](https://github.com/ahuang007/Linux-Command/blob/master/time.md) |
-| [setup](https://github.com/ahuang007/Linux-Command/blob/master/setup.md) | [sndconfig](https://github.com/ahuang007/Linux-Command/blob/master/sndconfig.md) | [setenv](https://github.com/ahuang007/Linux-Command/blob/master/setenv.md) |
-| [setconsole](https://github.com/ahuang007/Linux-Command/blob/master/setconsole.md) | [timeconfig](https://github.com/ahuang007/Linux-Command/blob/master/timeconfig.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
+| [setup](https://github.com/ahuang007/Linux-Command/blob/master/setup.md) | [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [setenv](https://github.com/ahuang007/Linux-Command/blob/master/setenv.md) |
+| [setconsole](https://github.com/ahuang007/Linux-Command/blob/master/setconsole.md) | [SVGATextMode](https://github.com/ahuang007/Linux-Command/blob/master/SVGATextMode.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
 | [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) | [chkconfig](https://github.com/ahuang007/Linux-Command/blob/master/chkconfig.md) | [apmd](https://github.com/ahuang007/Linux-Command/blob/master/apmd.md) |
-| [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) | [mkkickstart](https://github.com/ahuang007/Linux-Command/blob/master/mkkickstart.md) | [fbset](https://github.com/ahuang007/Linux-Command/blob/master/fbset.md) |
-| [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [SVGATextMode](https://github.com/ahuang007/Linux-Command/blob/master/SVGATextMode.md) |                                                              |
+| [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) | [mkkickstart](https://github.com/ahuang007/Linux-Command/blob/master/mkkickstart.md) |                                                              |
 
 ## 9 备份压缩
 
