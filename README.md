@@ -116,12 +116,12 @@
 
 | [reset](https://github.com/ahuang007/Linux-Command/blob/master/reset.md) | [clear](https://github.com/ahuang007/Linux-Command/blob/master/clear.md) | [alias](https://github.com/ahuang007/Linux-Command/blob/master/alias.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [dircolors](https://github.com/ahuang007/Linux-Command/blob/master/dircolors.md) | [aumix](https://github.com/ahuang007/Linux-Command/blob/master/aumix.md) | [bind](https://github.com/ahuang007/Linux-Command/blob/master/bind.md) |
+| [dircolors](https://github.com/ahuang007/Linux-Command/blob/master/dircolors.md) | [aumix](https://github.com/ahuang007/Linux-Command/blob/master/clear.md) | [bind](https://github.com/ahuang007/Linux-Command/blob/master/bind.md) |
 | [chroot](https://github.com/ahuang007/Linux-Command/blob/master/chroot.md) | [clock](https://github.com/ahuang007/Linux-Command/blob/master/clock.md) | [crontab](https://github.com/ahuang007/Linux-Command/blob/master/crontab.md) |
 | [declare](https://github.com/ahuang007/Linux-Command/blob/master/declare.md) | [depmod](https://github.com/ahuang007/Linux-Command/blob/master/depmod.md) | [dmesg](https://github.com/ahuang007/Linux-Command/blob/master/dmesg.md) |
 | [enable](https://github.com/ahuang007/Linux-Command/blob/master/enable.md) | [eval](https://github.com/ahuang007/Linux-Command/blob/master/eval.md) | [export](https://github.com/ahuang007/Linux-Command/blob/master/export.md) |
 | [pwunconv](https://github.com/ahuang007/Linux-Command/blob/master/pwunconv.md) | [grpconv](https://github.com/ahuang007/Linux-Command/blob/master/grpconv.md) | [rpm](https://github.com/ahuang007/Linux-Command/blob/master/rpm.md) |
-| [insmod](https://github.com/ahuang007/Linux-Command/blob/master/insmod.md) | [kbdconfig](https://github.com/ahuang007/Linux-Command/blob/master/kbdconfig.md) | [lilo](https://github.com/ahuang007/Linux-Command/blob/master/lilo.md) |
+| [insmod](https://github.com/ahuang007/Linux-Command/blob/master/insmod.md) | [kbdconfig](https://github.com/ahuang007/Linux-Command/blob/master/kbdconfig.md) | [mkkickstart](https://github.com/ahuang007/Linux-Command/blob/master/mkkickstart.md) |
 | [liloconfig](https://github.com/ahuang007/Linux-Command/blob/master/liloconfig.md) | [lsmod](https://github.com/ahuang007/Linux-Command/blob/master/lsmod.md) | [minfo](https://github.com/ahuang007/Linux-Command/blob/master/minfo.md) |
 | [set](https://github.com/ahuang007/Linux-Command/blob/master/set.md) | [modprobe](https://github.com/ahuang007/Linux-Command/blob/master/modprobe.md) | [ntsysv](https://github.com/ahuang007/Linux-Command/blob/master/ntsysv.md) |
 | [fbset](https://github.com/ahuang007/Linux-Command/blob/master/fbset.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
@@ -130,7 +130,7 @@
 | [setup](https://github.com/ahuang007/Linux-Command/blob/master/setup.md) | [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [setenv](https://github.com/ahuang007/Linux-Command/blob/master/setenv.md) |
 | [setconsole](https://github.com/ahuang007/Linux-Command/blob/master/setconsole.md) | [SVGATextMode](https://github.com/ahuang007/Linux-Command/blob/master/SVGATextMode.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
 | [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) | [chkconfig](https://github.com/ahuang007/Linux-Command/blob/master/chkconfig.md) | [apmd](https://github.com/ahuang007/Linux-Command/blob/master/apmd.md) |
-| [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) | [mkkickstart](https://github.com/ahuang007/Linux-Command/blob/master/mkkickstart.md) |                                                              |
+| [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) |                                                              |                                                              |
 
 ## 9 备份压缩
 
