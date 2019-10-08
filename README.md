@@ -96,7 +96,7 @@
 | [adduser](https://github.com/ahuang007/Linux-Command/blob/master/adduser.md) | [chfn](https://github.com/ahuang007/Linux-Command/blob/master/chfn.md) | [useradd](https://github.com/ahuang007/Linux-Command/blob/master/useradd.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [date](https://github.com/ahuang007/Linux-Command/blob/master/date.md) | [exit](https://github.com/ahuang007/Linux-Command/blob/master/exit.md) | [finger](https://github.com/ahuang007/Linux-Command/blob/master/finger.md) |
-| [fwhios](https://github.com/ahuang007/Linux-Command/blob/master/fwhios.md) | [sleep](https://github.com/ahuang007/Linux-Command/blob/master/sleep.md) | [suspend](https://github.com/ahuang007/Linux-Command/blob/master/suspend.md) |
+| [id](https://github.com/ahuang007/Linux-Command/blob/master/id.md) | [sleep](https://github.com/ahuang007/Linux-Command/blob/master/sleep.md) | [suspend](https://github.com/ahuang007/Linux-Command/blob/master/suspend.md) |
 | [groupdel](https://github.com/ahuang007/Linux-Command/blob/master/groupdel.md) | [groupmod](https://github.com/ahuang007/Linux-Command/blob/master/groupmod.md) | [halt](https://github.com/ahuang007/Linux-Command/blob/master/halt.md) |
 | [kill](https://github.com/ahuang007/Linux-Command/blob/master/kill.md) | [last](https://github.com/ahuang007/Linux-Command/blob/master/last.md) | [lastb](https://github.com/ahuang007/Linux-Command/blob/master/lastb.md) |
 | [login](https://github.com/ahuang007/Linux-Command/blob/master/login.md) | [logname](https://github.com/ahuang007/Linux-Command/blob/master/logname.md) | [logout](https://github.com/ahuang007/Linux-Command/blob/master/logout.md) |
@@ -110,7 +110,6 @@
 | [usermod](https://github.com/ahuang007/Linux-Command/blob/master/usermod.md) | [vlock](https://github.com/ahuang007/Linux-Command/blob/master/vlock.md) | [who](https://github.com/ahuang007/Linux-Command/blob/master/who.md) |
 | [whoami](https://github.com/ahuang007/Linux-Command/blob/master/whoami.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/free.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/newgrp.md) |
 | [renice](https://github.com/ahuang007/Linux-Command/blob/master/renice.md) | [su](https://github.com/ahuang007/Linux-Command/blob/master/su.md) | [skill](https://github.com/ahuang007/Linux-Command/blob/master/skill.md) |
-| [id](https://github.com/ahuang007/Linux-Command/blob/master/id.md) |                                                              |                                                              |
 
 ## 8 系统设置
 
