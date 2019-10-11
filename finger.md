@@ -2,7 +2,7 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-注：`finger 不是 linux 自带指令`
+注：`finger 不是 linux 自带指令 软件安装：yum install finger `
 
 Linux finger 命令可以让使用者查询一些其他使用者的资料。会列出来的资料有：
 
