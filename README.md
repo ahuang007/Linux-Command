@@ -15,11 +15,11 @@
 | [more](https://github.com/ahuang007/Linux-Command/blob/master/more.md) | [mmove](https://github.com/ahuang007/Linux-Command/blob/master/mmove.md) | [mread](https://github.com/ahuang007/Linux-Command/blob/master/mread.md) |
 | [mren](https://github.com/ahuang007/Linux-Command/blob/master/mren.md) | [mtools](https://github.com/ahuang007/Linux-Command/blob/master/mtools.md) | [mtoolstest](https://github.com/ahuang007/Linux-Command/blob/master/mtoolstest.md) |
 | [mv](https://github.com/ahuang007/Linux-Command/blob/master/mv.md) | [od](https://github.com/ahuang007/Linux-Command/blob/master/od.md) | [paste](https://github.com/ahuang007/Linux-Command/blob/master/paste.md) |
-| [patch](https://github.com/ahuang007/Linux-Command/blob/master/patch.md) | [rcp](https://github.com/ahuang007/Linux-Command/blob/master/rcp.md) | [rm](https://github.com/ahuang007/Linux-Command/blob/master/rm.md) |
+| [patch](https://github.com/ahuang007/Linux-Command/blob/master/patch.md) | [scp](https://github.com/ahuang007/Linux-Command/blob/master/scp.md) | [rm](https://github.com/ahuang007/Linux-Command/blob/master/rm.md) |
 | [updatedb](https://github.com/ahuang007/Linux-Command/blob/master/updatedb.md) | [split](https://github.com/ahuang007/Linux-Command/blob/master/split.md) | [tee](https://github.com/ahuang007/Linux-Command/blob/master/tee.md) |
 | [tmpwatch](https://github.com/ahuang007/Linux-Command/blob/master/tmpwatch.md) | [touch](https://github.com/ahuang007/Linux-Command/blob/master/touch.md) | [umask](https://github.com/ahuang007/Linux-Command/blob/master/umask.md) |
 | [which](https://github.com/ahuang007/Linux-Command/blob/master/which.md) | [cp](https://github.com/ahuang007/Linux-Command/blob/master/cp.md) | [whereis](https://github.com/ahuang007/Linux-Command/blob/master/whereis.md) |
-| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) | [scp](https://github.com/ahuang007/Linux-Command/blob/master/scp.md) |
+| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) |                                                              |
 
 ## 2 文档编辑
 
