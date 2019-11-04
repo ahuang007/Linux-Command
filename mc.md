@@ -2,8 +2,6 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-
-
 Linux mc 命令用于提供一个菜单式的文件管理程序。
 
 执行 mc 之后，将会看到菜单式的文件管理程序，共分成４个部分。
