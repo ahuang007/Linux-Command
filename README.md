@@ -147,8 +147,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/dumpkeys.md) | [MAKEDEV](https://github.com/ahuang007/Linux-Command/blob/master/MAKEDEV.md) |                                                              |
 
-## 11 其他命令
+## 11 其他命令(待添加)
 
 | [bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) | [xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) | [md5sum](https://github.com/ahuang007/Linux-Command/blob/master/md5sum.md) |                                                              |
+
