@@ -21,30 +21,17 @@ egrep [范本模式] [文件或目录]
 
 ### 实例
 
-显示文件中符合条件的字符。例如，查找当前目录下所有文件中包含字符串"Linux"的文件，可以使用如下命令：
+显示文件中符合条件的字符。例如，查找当前目录下所有文件中包含字符串"read"的文件，可以使用如下命令：
 
 ```
-egrep Linux *
-```
-
-结果如下所示：
-
-```
-$ egrep Linux * #查找当前目录下包含字符串“Linux”的文件  
-testfile:hello Linux! #以下五行为testfile 中包含Linux字符的行  
-testfile:Linux is a free Unix-type operating system.  
-testfile:This is a Linux testfile!  
-testfile:Linux  
-testfile:Linux  
-testfile1:helLinux! #以下两行为testfile1中含Linux字符的行  
-testfile1:This a Linux testfile!  
-#以下两行为testfile_2 中包含Linux字符的行  
-testfile_2:Linux is a free unix-type opterating system.  
-testfile_2:Linux test  
-xx00:hello Linux! #xx00包含Linux字符的行  
-xx01:Linux is a free Unix-type operating system. #以下三行为xx01包含Linux字符的行  
-xx01:This is a Linux testfile!  
-xx01:Linux 
+[huanglijun@localhost read]$ egrep read ./*
+./test1.sh:read num 
+./test2.sh:if read -t 5 -p "输入一个数：" num
+./test3.sh:read -n1 -p "Do you want to continue [Y/N]?" answer
+./test4.sh:read -n2 -p "请随便输入两个字符: " any
+./test5.sh:read  -s  -p "请输入您的密码:" pass
+./test6.sh:cat test.txt | while read line      # cat 命令的输出作为read命令的输入,read读到>的值放在line中
+./test.sh:read num 
 ```
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
