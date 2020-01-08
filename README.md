@@ -19,7 +19,7 @@
 | [updatedb](https://github.com/ahuang007/Linux-Command/blob/master/updatedb.md) | [split](https://github.com/ahuang007/Linux-Command/blob/master/split.md) | [tee](https://github.com/ahuang007/Linux-Command/blob/master/tee.md) |
 | [tmpwatch](https://github.com/ahuang007/Linux-Command/blob/master/tmpwatch.md) | [touch](https://github.com/ahuang007/Linux-Command/blob/master/touch.md) | [umask](https://github.com/ahuang007/Linux-Command/blob/master/umask.md) |
 | [which](https://github.com/ahuang007/Linux-Command/blob/master/which.md) | [cp](https://github.com/ahuang007/Linux-Command/blob/master/cp.md) | [whereis](https://github.com/ahuang007/Linux-Command/blob/master/whereis.md) |
-| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) |                                                              |
+| [mcopy](https://github.com/ahuang007/Linux-Command/blob/master/mcopy.md) | [mshowfat](https://github.com/ahuang007/Linux-Command/blob/master/mshowfat.md) | [head](https://github.com/ahuang007/Linux-Command/blob/master/head.md) |
 
 ## 2 文档编辑
 
