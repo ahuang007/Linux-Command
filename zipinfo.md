@@ -2,9 +2,9 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-Linux zipinfo命令用于列出压缩文件信息。
+Linux zipinfo 命令用于列出压缩文件信息。
 
-执行zipinfo指令可得知zip压缩文件的详细信息。
+执行 zipinfo 指令可得知 [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) 压缩文件的详细信息。
 
 ### 语法
 

@@ -2,7 +2,7 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-Linux unzip 命令用于解压缩 zip 文件
+Linux unzip 命令用于解压缩 [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) 文件
 
 unzip 为 .zip 压缩文件的解压缩程序。
 
