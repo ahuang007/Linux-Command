@@ -2,9 +2,9 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-Linux ex命令用于在Ex模式下启动vim文本编辑器。
+Linux ex 命令用于在 Ex 模式下启动 vim 文本编辑器。
 
-ex执行效果如同vi -E，使用语法及参数可参照vi指令，如要从Ex模式回到普通模式，则在vim中输入":vi"或":visual"指令即可。
+ex 执行效果如同 vi -E，使用语法及参数可参照 vi 指令，如要从 Ex 模式回到普通模式，则在 vim 中输入":vi"或":visual"指令即可。
 
 ### 语法
 
@@ -31,7 +31,7 @@ ex [选项][参数]
 
 ### 实例
 
-在ex 指令后输入文件名按回车键后，即可进入ex 编辑模式，如编辑testfile文件，使用的命令格式如下：
+在 ex 指令后输入文件名按回车键后，即可进入 ex 编辑模式，如编辑 testfile 文件，使用的命令格式如下：
 
 ```
 [huanglijun@localhost test]$ ex file1
@@ -46,8 +46,8 @@ Entering Ex mode.  Type "visual" to go to Normal mode.
 
 "testfile"表示文件名，5L表示5 行，95 表示字节数
 
-进入ex 模式。输入"visual"回到正常模式
+进入 ex 模式。输入"visual"回到正常模式
 
-它的操作与vim 中是一样的，此时如果在":"后输入"visual"后按回车键，将进入到vi 指令全屏界面；如果输入"q"，则退出编辑器。
+它的操作与 vim 中是一样的，此时如果在":"后输入"visual"后按回车键，将进入到 vi 指令全屏界面；如果输入"q"，则退出编辑器。
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
