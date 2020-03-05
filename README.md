@@ -136,10 +136,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [bzip2recover](https://github.com/ahuang007/Linux-Command/blob/master/bzip2recover.md) | [gunzip](https://github.com/ahuang007/Linux-Command/blob/master/gunzip.md) | [unarj](https://github.com/ahuang007/Linux-Command/blob/master/unarj.md) |
 | [compress](https://github.com/ahuang007/Linux-Command/blob/master/compress.md) | [cpio](https://github.com/ahuang007/Linux-Command/blob/master/cpio.md) | [dump](https://github.com/ahuang007/Linux-Command/blob/master/dump.md) |
-| [uuencode](https://github.com/ahuang007/Linux-Command/blob/master/uuencode.md) | [gzexe](https://github.com/ahuang007/Linux-Command/blob/master/gzexe.md) | [gzip](https://github.com/ahuang007/Linux-Command/blob/master/gzip.md) |
+| [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) | [gzexe](https://github.com/ahuang007/Linux-Command/blob/master/gzexe.md) | [gzip](https://github.com/ahuang007/Linux-Command/blob/master/gzip.md) |
 | [lha](https://github.com/ahuang007/Linux-Command/blob/master/lha.md) | [restore](https://github.com/ahuang007/Linux-Command/blob/master/restore.md) | [tar](https://github.com/ahuang007/Linux-Command/blob/master/tar.md) |
-| [uudecode](https://github.com/ahuang007/Linux-Command/blob/master/uudecode.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/unzip.md) | [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) |
-| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/zipinfo.md) |                                                              |                                                              |
+| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/zipinfo.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/unzip.md) |                                                              |
 
 ## 10 设置管理
 

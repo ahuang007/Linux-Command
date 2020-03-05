@@ -62,7 +62,7 @@ a.c.Z  a.out  b.c  c.c  d.c  testf.txt
 强制压缩文件夹下的所有文件
 
 ```
-[root@runoob.com ~]# compress -rf ./*
+[huanglijun@localhost test1]$ compress -rf ./*
 ```
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
