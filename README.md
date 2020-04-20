@@ -86,9 +86,8 @@
 | [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
 | [uuname](https://github.com/ahuang007/Linux-Command/blob/master/uuname.md) | [netconf](https://github.com/ahuang007/Linux-Command/blob/master/netconf.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
 | [statserial](https://github.com/ahuang007/Linux-Command/blob/master/statserial.md) | [efax](https://github.com/ahuang007/Linux-Command/blob/master/efax.md) | [pppsetup](https://github.com/ahuang007/Linux-Command/blob/master/pppsetup.md) |
-| [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) | [ytalk](https://github.com/ahuang007/Linux-Command/blob/master/ytalk.md) | [cu](https://github.com/ahuang007/Linux-Command/blob/master/cu.md) |
+| [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) |                                                              | [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) |
 | [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) | [smbclient](https://github.com/ahuang007/Linux-Command/blob/master/smbclient.md) |
-| [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) |                                                              |                                                              |
 
 ## 7 系统管理
 
