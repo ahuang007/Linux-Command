@@ -45,6 +45,7 @@ root 的终端 终端显示
 [root@localhost trunk (dev ✗)]$ 
 Message from root@localhost.localdomain on pts/14 at 21:05 ...
 hello
+EOF
 
 ```
 
