@@ -76,18 +76,15 @@
 
 | [apachectl](https://github.com/ahuang007/Linux-Command/blob/master/apachectl.md) | [arpwatch](https://github.com/ahuang007/Linux-Command/blob/master/arpwatch.md) | [dip](https://github.com/ahuang007/Linux-Command/blob/master/dip.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [getty](https://github.com/ahuang007/Linux-Command/blob/master/getty.md) | [mingetty](https://github.com/ahuang007/Linux-Command/blob/master/mingetty.md) | [uux](https://github.com/ahuang007/Linux-Command/blob/master/uux.md) |
-| [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [uulog](https://github.com/ahuang007/Linux-Command/blob/master/uulog.md) | [uustat](https://github.com/ahuang007/Linux-Command/blob/master/uustat.md) |
-| [ppp-off](https://github.com/ahuang007/Linux-Command/blob/master/ppp-off.md) | [netconfig](https://github.com/ahuang007/Linux-Command/blob/master/netconfig.md) | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
+| [smbclient](https://github.com/ahuang007/Linux-Command/blob/master/smbclient.md) | [mingetty](https://github.com/ahuang007/Linux-Command/blob/master/mingetty.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) |
+| [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) | [statserial](https://github.com/ahuang007/Linux-Command/blob/master/statserial.md) |
+| [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [netconfig](https://github.com/ahuang007/Linux-Command/blob/master/netconfig.md) | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
 | [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) | [minicom](https://github.com/ahuang007/Linux-Command/blob/master/minicom.md) |
 | [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) | [dnsconf](https://github.com/ahuang007/Linux-Command/blob/master/dnsconf.md) | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
 | [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) | [pppstats](https://github.com/ahuang007/Linux-Command/blob/master/pppstats.md) |
 | [samba](https://github.com/ahuang007/Linux-Command/blob/master/samba.md) | [setserial](https://github.com/ahuang007/Linux-Command/blob/master/setserial.md) | [talk](https://github.com/ahuang007/Linux-Command/blob/master/talk.md) |
 | [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
-| [uuname](https://github.com/ahuang007/Linux-Command/blob/master/uuname.md) | [netconf](https://github.com/ahuang007/Linux-Command/blob/master/netconf.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
-| [statserial](https://github.com/ahuang007/Linux-Command/blob/master/statserial.md) | [efax](https://github.com/ahuang007/Linux-Command/blob/master/efax.md) | [pppsetup](https://github.com/ahuang007/Linux-Command/blob/master/pppsetup.md) |
-| [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) |                                                              | [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) |
-| [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) | [smbclient](https://github.com/ahuang007/Linux-Command/blob/master/smbclient.md) |
+| [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) | [netconf](https://github.com/ahuang007/Linux-Command/blob/master/netconf.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
 
 ## 7 系统管理
 
@@ -98,7 +95,7 @@
 | [groupdel](https://github.com/ahuang007/Linux-Command/blob/master/groupdel.md) | [groupmod](https://github.com/ahuang007/Linux-Command/blob/master/groupmod.md) | [halt](https://github.com/ahuang007/Linux-Command/blob/master/halt.md) |
 | [kill](https://github.com/ahuang007/Linux-Command/blob/master/kill.md) | [last](https://github.com/ahuang007/Linux-Command/blob/master/last.md) | [lastb](https://github.com/ahuang007/Linux-Command/blob/master/lastb.md) |
 | [login](https://github.com/ahuang007/Linux-Command/blob/master/login.md) | [logname](https://github.com/ahuang007/Linux-Command/blob/master/logname.md) | [logout](https://github.com/ahuang007/Linux-Command/blob/master/logout.md) |
-| [ps](https://github.com/ahuang007/Linux-Command/blob/master/ps.md) | [nice](https://github.com/ahuang007/Linux-Command/blob/master/nice.md) | [procinfo](https://github.com/ahuang007/Linux-Command/blob/master/procinfo.md) |
+| [ps](https://github.com/ahuang007/Linux-Command/blob/master/ps.md) | [nice](https://github.com/ahuang007/Linux-Command/blob/master/nice.md) |                                                              |
 | [top](https://github.com/ahuang007/Linux-Command/blob/master/top.md) | [ptree](https://github.com/ahuang007/Linux-Command/blob/master/ptree.md) | [reboot](https://github.com/ahuang007/Linux-Command/blob/master/reboot.md) |
 | [rlogin](https://github.com/ahuang007/Linux-Command/blob/master/rlogin.md) | [rsh](https://github.com/ahuang007/Linux-Command/blob/master/rsh.md) | [sliplogin](https://github.com/ahuang007/Linux-Command/blob/master/sliplogin.md) |
 | [screen](https://github.com/ahuang007/Linux-Command/blob/master/screen.md) | [shutdown](https://github.com/ahuang007/Linux-Command/blob/master/shutdown.md) | [w](https://github.com/ahuang007/Linux-Command/blob/master/w.md) |
@@ -150,4 +147,5 @@
 | [bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) | [xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) | [md5sum](https://github.com/ahuang007/Linux-Command/blob/master/md5sum.md) | [pidof](https://github.com/ahuang007/Linux-Command/blob/master/pidof.md) |
+|                                                              |                                                              |                                                              |
 
