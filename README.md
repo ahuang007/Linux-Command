@@ -27,12 +27,11 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [csplit](https://github.com/ahuang007/Linux-Command/blob/master/csplit.md) | [ed](https://github.com/ahuang007/Linux-Command/blob/master/ed.md) | [egrep](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) |
 | [ex](https://github.com/ahuang007/Linux-Command/blob/master/ex.md) | [fgrep](https://github.com/ahuang007/Linux-Command/blob/master/fgrep.md) | [fmt](https://github.com/ahuang007/Linux-Command/blob/master/fmt.md) |
-| [fold](https://github.com/ahuang007/Linux-Command/blob/master/fold.md) | [grep](https://github.com/ahuang007/Linux-Command/blob/master/grep.md) | [ispell](https://github.com/ahuang007/Linux-Command/blob/master/ispell.md) |
-| [ed](https://github.com/ahuang007/Linux-Command/blob/master/ed.md) | [joe](https://github.com/ahuang007/Linux-Command/blob/master/joe.md) | [join](https://github.com/ahuang007/Linux-Command/blob/master/join.md) |
+| [fold](https://github.com/ahuang007/Linux-Command/blob/master/fold.md) | [grep](https://github.com/ahuang007/Linux-Command/blob/master/grep.md) | [let](https://github.com/ahuang007/Linux-Command/blob/master/let.md) |
+| [uniq](https://github.com/ahuang007/Linux-Command/blob/master/uniq.md) | [wc](https://github.com/ahuang007/Linux-Command/blob/master/wc.md) | [join](https://github.com/ahuang007/Linux-Command/blob/master/join.md) |
 | [look](https://github.com/ahuang007/Linux-Command/blob/master/look.md) | [mtype](https://github.com/ahuang007/Linux-Command/blob/master/mtype.md) | [pico](https://github.com/ahuang007/Linux-Command/blob/master/pico.md) |
 | [rgrep](https://github.com/ahuang007/Linux-Command/blob/master/rgrep.md) | [sed](https://github.com/ahuang007/Linux-Command/blob/master/sed.md) | [sort](https://github.com/ahuang007/Linux-Command/blob/master/sort.md) |
 | [spell](https://github.com/ahuang007/Linux-Command/blob/master/spell.md) | [tr](https://github.com/ahuang007/Linux-Command/blob/master/tr.md) | [expr](https://github.com/ahuang007/Linux-Command/blob/master/expr.md) |
-| [uniq](https://github.com/ahuang007/Linux-Command/blob/master/uniq.md) | [wc](https://github.com/ahuang007/Linux-Command/blob/master/wc.md) | [let](https://github.com/ahuang007/Linux-Command/blob/master/let.md) |
 
 ## 3 文件传输
 
