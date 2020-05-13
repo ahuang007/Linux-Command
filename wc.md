@@ -91,6 +91,10 @@ wc testfile testfile_1 testfile_2
 [root@localhost fish_game (dev ✗)]$ wc ` find  .  -name   "*.lua" `
 ......
  1187251  1800744 40077704 total
+ 
+ # 统计指定文件夹下文件数量
+[root@localhost fish_game (dev)]$ find ./script -type f | wc -l 
+2834
 ```
 
 
