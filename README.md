@@ -29,9 +29,9 @@
 | [ex](https://github.com/ahuang007/Linux-Command/blob/master/ex.md) | [fgrep](https://github.com/ahuang007/Linux-Command/blob/master/fgrep.md) | [fmt](https://github.com/ahuang007/Linux-Command/blob/master/fmt.md) |
 | [fold](https://github.com/ahuang007/Linux-Command/blob/master/fold.md) | [grep](https://github.com/ahuang007/Linux-Command/blob/master/grep.md) | [let](https://github.com/ahuang007/Linux-Command/blob/master/let.md) |
 | [uniq](https://github.com/ahuang007/Linux-Command/blob/master/uniq.md) | [wc](https://github.com/ahuang007/Linux-Command/blob/master/wc.md) | [join](https://github.com/ahuang007/Linux-Command/blob/master/join.md) |
-| [look](https://github.com/ahuang007/Linux-Command/blob/master/look.md) | [mtype](https://github.com/ahuang007/Linux-Command/blob/master/mtype.md) | [pico](https://github.com/ahuang007/Linux-Command/blob/master/pico.md) |
+| [look](https://github.com/ahuang007/Linux-Command/blob/master/look.md) | [mtype](https://github.com/ahuang007/Linux-Command/blob/master/mtype.md) | [expr](https://github.com/ahuang007/Linux-Command/blob/master/expr.md) |
 | [rgrep](https://github.com/ahuang007/Linux-Command/blob/master/rgrep.md) | [sed](https://github.com/ahuang007/Linux-Command/blob/master/sed.md) | [sort](https://github.com/ahuang007/Linux-Command/blob/master/sort.md) |
-| [spell](https://github.com/ahuang007/Linux-Command/blob/master/spell.md) | [tr](https://github.com/ahuang007/Linux-Command/blob/master/tr.md) | [expr](https://github.com/ahuang007/Linux-Command/blob/master/expr.md) |
+| [spell](https://github.com/ahuang007/Linux-Command/blob/master/spell.md) | [tr](https://github.com/ahuang007/Linux-Command/blob/master/tr.md) |                                                              |
 
 ## 3 文件传输
 
