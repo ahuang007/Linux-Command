@@ -152,4 +152,15 @@ bin/runtime/fish_game/log/agent_1__engine_file.log
 -rw-r--r--. 1 root root 0 May  6 20:55 ./bin/runtime/fish_game/log/agent_1__engine_file.log
 ```
 
+查找代码中超过500k的lua文件
+
+```
+[root@localhost fish_game (dev ✗)]$ find ./script -type f -size +500k | grep lua
+./script/trunk/public/game/fep/server/ip_area/ip_area_list.lua
+./script/trunk/center/ss/server/ip_area/ip_area_list.lua
+./script/trunk/center/ls/server/ip_area/ip_area_list.lua
+./script/trunk/center/def/include/server/game/line_s.lua
+./script/trunk/fish_game/def/include/server/game/line_s.lua
+```
+
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
