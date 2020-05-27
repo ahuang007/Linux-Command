@@ -36,10 +36,7 @@
 
 | [lprm](https://github.com/ahuang007/Linux-Command/blob/master/lprm.md) | [lpr](https://github.com/ahuang007/Linux-Command/blob/master/lpr.md) | [lpq](https://github.com/ahuang007/Linux-Command/blob/master/lpq.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [lpd](https://github.com/ahuang007/Linux-Command/blob/master/lpd.md) | [bye](https://github.com/ahuang007/Linux-Command/blob/master/bye.md) | [ftp](https://github.com/ahuang007/Linux-Command/blob/master/ftp.md) |
-| [uuto](https://github.com/ahuang007/Linux-Command/blob/master/uuto.md) | [uupick](https://github.com/ahuang007/Linux-Command/blob/master/uupick.md) | [uucp](https://github.com/ahuang007/Linux-Command/blob/master/uucp.md) |
-| [uucico](https://github.com/ahuang007/Linux-Command/blob/master/uucico.md) | [tftp](https://github.com/ahuang007/Linux-Command/blob/master/tftp.md) | [ncftp](https://github.com/ahuang007/Linux-Command/blob/master/ncftp.md) |
-| [ftpshut](https://github.com/ahuang007/Linux-Command/blob/master/ftpshut.md) | [ftpwho](https://github.com/ahuang007/Linux-Command/blob/master/ftpwho.md) | [ftpcount](https://github.com/ahuang007/Linux-Command/blob/master/ftpcount.md) |
+| [bye](https://github.com/ahuang007/Linux-Command/blob/master/bye.md) |                                                              |                                                              |
 
 ## 4 磁盘管理
 
