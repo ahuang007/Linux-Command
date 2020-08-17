@@ -46,7 +46,7 @@
 | [mcd](https://github.com/ahuang007/Linux-Command/blob/master/mcd.md) | [mdeltree](https://github.com/ahuang007/Linux-Command/blob/master/mdeltree.md) | [mdu](https://github.com/ahuang007/Linux-Command/blob/master/mdu.md) |
 | [mkdir](https://github.com/ahuang007/Linux-Command/blob/master/mkdir.md) | [mlabel](https://github.com/ahuang007/Linux-Command/blob/master/mlabel.md) | [mmd](https://github.com/ahuang007/Linux-Command/blob/master/mmd.md) |
 | [mrd](https://github.com/ahuang007/Linux-Command/blob/master/mrd.md) | [mzip](https://github.com/ahuang007/Linux-Command/blob/master/mzip.md) | [pwd](https://github.com/ahuang007/Linux-Command/blob/master/pwd.md) |
-| [quota](https://github.com/ahuang007/Linux-Command/blob/master/quota.md) | [mount](https://github.com/ahuang007/Linux-Command/blob/master/mount.md) | [mmount](https://github.com/ahuang007/Linux-Command/blob/master/mmount.md) |
+| [quota](https://github.com/ahuang007/Linux-Command/blob/master/quota.md) | [mount](https://github.com/ahuang007/Linux-Command/blob/master/mount.md) |                                                              |
 | [rmdir](https://github.com/ahuang007/Linux-Command/blob/master/rmdir.md) | [rmt](https://github.com/ahuang007/Linux-Command/blob/master/rmt.md) | [stat](https://github.com/ahuang007/Linux-Command/blob/master/stat.md) |
 | [tree](https://github.com/ahuang007/Linux-Command/blob/master/tree.md) | [umount](https://github.com/ahuang007/Linux-Command/blob/master/umount.md) | [ls](https://github.com/ahuang007/Linux-Command/blob/master/ls.md) |
 | [quotacheck](https://github.com/ahuang007/Linux-Command/blob/master/quotacheck.md) | [quotaoff](https://github.com/ahuang007/Linux-Command/blob/master/quotaoff.md) | [lndir](https://github.com/ahuang007/Linux-Command/blob/master/lndir.md) |
@@ -137,10 +137,14 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/dumpkeys.md) | [MAKEDEV](https://github.com/ahuang007/Linux-Command/blob/master/MAKEDEV.md) |                                                              |
 
-## 11 其他命令(待添加)
+## 11 其他命令
 
 | [bc](https://github.com/ahuang007/Linux-Command/blob/master/bc.md) | [tail](https://github.com/ahuang007/Linux-Command/blob/master/tail.md) | [xargs](https://github.com/ahuang007/Linux-Command/blob/master/xargs.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [cal](https://github.com/ahuang007/Linux-Command/blob/master/cal.md) | [md5sum](https://github.com/ahuang007/Linux-Command/blob/master/md5sum.md) | [pidof](https://github.com/ahuang007/Linux-Command/blob/master/pidof.md) |
-| [nl](https://github.com/ahuang007/Linux-Command/blob/master/nl.md) |                                                              |                                                              |
+| [nl](https://github.com/ahuang007/Linux-Command/blob/master/nl.md) | [nm](https://github.com/ahuang007/Linux-Command/blob/master/nm.md) | [ldd](https://github.com/ahuang007/Linux-Command/blob/master/ldd.md) |
+| [lsof](https://github.com/ahuang007/Linux-Command/blob/master/lsof.md) | [iostat](https://github.com/ahuang007/Linux-Command/blob/master/iostat.md) | [vmstat](https://github.com/ahuang007/Linux-Command/blob/master/vmstat.md) |
+| [pstack](https://github.com/ahuang007/Linux-Command/blob/master/pstack.md) | [strace](https://github.com/ahuang007/Linux-Command/blob/master/strace.md) | [gdb](https://github.com/ahuang007/Linux-Command/blob/master/gdb.md) |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
