@@ -13,7 +13,6 @@ rmdir [-p] dirName
 **参数**：
 
 - -p 是当子目录被删除后使它也成为空目录的话，则顺便一并删除。
-- 
 
 ### 实例
 
@@ -31,3 +30,4 @@ rmdir [-p] dirName
  ```
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+
