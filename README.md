@@ -46,11 +46,9 @@
 | [mcd](https://github.com/ahuang007/Linux-Command/blob/master/mcd.md) | [mdeltree](https://github.com/ahuang007/Linux-Command/blob/master/mdeltree.md) | [mdu](https://github.com/ahuang007/Linux-Command/blob/master/mdu.md) |
 | [mkdir](https://github.com/ahuang007/Linux-Command/blob/master/mkdir.md) | [mlabel](https://github.com/ahuang007/Linux-Command/blob/master/mlabel.md) | [mmd](https://github.com/ahuang007/Linux-Command/blob/master/mmd.md) |
 | [mrd](https://github.com/ahuang007/Linux-Command/blob/master/mrd.md) | [mzip](https://github.com/ahuang007/Linux-Command/blob/master/mzip.md) | [pwd](https://github.com/ahuang007/Linux-Command/blob/master/pwd.md) |
-| [quota](https://github.com/ahuang007/Linux-Command/blob/master/quota.md) | [mount](https://github.com/ahuang007/Linux-Command/blob/master/mount.md) |                                                              |
-| [rmdir](https://github.com/ahuang007/Linux-Command/blob/master/rmdir.md) |                                                              | [stat](https://github.com/ahuang007/Linux-Command/blob/master/stat.md) |
-| [tree](https://github.com/ahuang007/Linux-Command/blob/master/tree.md) | [umount](https://github.com/ahuang007/Linux-Command/blob/master/umount.md) | [ls](https://github.com/ahuang007/Linux-Command/blob/master/ls.md) |
-| [quotacheck](https://github.com/ahuang007/Linux-Command/blob/master/quotacheck.md) | [quotaoff](https://github.com/ahuang007/Linux-Command/blob/master/quotaoff.md) | [lndir](https://github.com/ahuang007/Linux-Command/blob/master/lndir.md) |
-| [requota](https://github.com/ahuang007/Linux-Command/blob/master/requota.md) | [quotaon](https://github.com/ahuang007/Linux-Command/blob/master/quotaon.md) |                                                              |
+| [quota](https://github.com/ahuang007/Linux-Command/blob/master/quota.md) | [mount](https://github.com/ahuang007/Linux-Command/blob/master/mount.md) | [umount](https://github.com/ahuang007/Linux-Command/blob/master/umount.md) |
+| [rmdir](https://github.com/ahuang007/Linux-Command/blob/master/rmdir.md) | [stat](https://github.com/ahuang007/Linux-Command/blob/master/stat.md) | [ls](https://github.com/ahuang007/Linux-Command/blob/master/ls.md) |
+| [tree](https://github.com/ahuang007/Linux-Command/blob/master/tree.md) |                                                              |                                                              |
 
 ## 5 磁盘维护
 
