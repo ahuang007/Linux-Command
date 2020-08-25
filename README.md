@@ -54,7 +54,7 @@
 
 | [badblocks](https://github.com/ahuang007/Linux-Command/blob/master/badblocks.md) | [cfdisk](https://github.com/ahuang007/Linux-Command/blob/master/cfdisk.md) | [dd](https://github.com/ahuang007/Linux-Command/blob/master/dd.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [e2fsck](https://github.com/ahuang007/Linux-Command/blob/master/e2fsck.md) | [ext2ed](https://github.com/ahuang007/Linux-Command/blob/master/ext2ed.md) | [fsck](https://github.com/ahuang007/Linux-Command/blob/master/fsck.md) |
+| [e2fsck](https://github.com/ahuang007/Linux-Command/blob/master/e2fsck.md) |                                                              | [fsck](https://github.com/ahuang007/Linux-Command/blob/master/fsck.md) |
 | [fsck.minix](https://github.com/ahuang007/Linux-Command/blob/master/fsck.minix.md) | [fsconf](https://github.com/ahuang007/Linux-Command/blob/master/fsconf.md) | [fdformat](https://github.com/ahuang007/Linux-Command/blob/master/fdformat.md) |
 | [hdparm](https://github.com/ahuang007/Linux-Command/blob/master/hdparm.md) | [mformat](https://github.com/ahuang007/Linux-Command/blob/master/mformat.md) | [mkbootdisk](https://github.com/ahuang007/Linux-Command/blob/master/mkbootdisk.md) |
 | [mkdosfs](https://github.com/ahuang007/Linux-Command/blob/master/mkdosfs.md) | [mke2fs](https://github.com/ahuang007/Linux-Command/blob/master/mke2fs.md) | [mkfs.ext2](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.ext2.md) |
