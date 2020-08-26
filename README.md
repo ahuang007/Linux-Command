@@ -55,15 +55,14 @@
 | [badblocks](https://github.com/ahuang007/Linux-Command/blob/master/badblocks.md) | [cfdisk](https://github.com/ahuang007/Linux-Command/blob/master/cfdisk.md) | [dd](https://github.com/ahuang007/Linux-Command/blob/master/dd.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [e2fsck](https://github.com/ahuang007/Linux-Command/blob/master/e2fsck.md) |                                                              | [fsck](https://github.com/ahuang007/Linux-Command/blob/master/fsck.md) |
-| [fsck.minix](https://github.com/ahuang007/Linux-Command/blob/master/fsck.minix.md) | [fsconf](https://github.com/ahuang007/Linux-Command/blob/master/fsconf.md) | [fdformat](https://github.com/ahuang007/Linux-Command/blob/master/fdformat.md) |
+| [fsck.minix](https://github.com/ahuang007/Linux-Command/blob/master/fsck.minix.md) | [fsck.ext2](https://github.com/ahuang007/Linux-Command/blob/master/fsck.ext2.md) | [fdformat](https://github.com/ahuang007/Linux-Command/blob/master/fdformat.md) |
 | [hdparm](https://github.com/ahuang007/Linux-Command/blob/master/hdparm.md) | [mformat](https://github.com/ahuang007/Linux-Command/blob/master/mformat.md) | [mkbootdisk](https://github.com/ahuang007/Linux-Command/blob/master/mkbootdisk.md) |
 | [mkdosfs](https://github.com/ahuang007/Linux-Command/blob/master/mkdosfs.md) | [mke2fs](https://github.com/ahuang007/Linux-Command/blob/master/mke2fs.md) | [mkfs.ext2](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.ext2.md) |
 | [mkfs.msdos](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.msdos.md) | [mkinitrd](https://github.com/ahuang007/Linux-Command/blob/master/mkinitrd.md) | [mkisofs](https://github.com/ahuang007/Linux-Command/blob/master/mkisofs.md) |
 | [mkswap](https://github.com/ahuang007/Linux-Command/blob/master/mkswap.md) | [mpartition](https://github.com/ahuang007/Linux-Command/blob/master/mpartition.md) | [swapon](https://github.com/ahuang007/Linux-Command/blob/master/swapon.md) |
 | [symlinks](https://github.com/ahuang007/Linux-Command/blob/master/symlinks.md) | [sync](https://github.com/ahuang007/Linux-Command/blob/master/sync.md) | [mbadblocks](https://github.com/ahuang007/Linux-Command/blob/master/mbadblocks.md) |
-| [mkfs.minix](https://github.com/ahuang007/Linux-Command/blob/master/minix.md) | [fsck.ext2](https://github.com/ahuang007/Linux-Command/blob/master/fsck.ext2.md) | [fdisk](https://github.com/ahuang007/Linux-Command/blob/master/fdisk.md) |
+| [mkfs.minix](https://github.com/ahuang007/Linux-Command/blob/master/minix.md) | [swapoff](https://github.com/ahuang007/Linux-Command/blob/master/swapoff.md) | [fdisk](https://github.com/ahuang007/Linux-Command/blob/master/fdisk.md) |
 | [losetup](https://github.com/ahuang007/Linux-Command/blob/master/losetup.md) | [mkfs](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.md) | [sfdisk](https://github.com/ahuang007/Linux-Command/blob/master/sfdisk.md) |
-| [swapoff](https://github.com/ahuang007/Linux-Command/blob/master/swapoff.md) |                                                              |                                                              |
 
 ## 6 网络通讯
 
