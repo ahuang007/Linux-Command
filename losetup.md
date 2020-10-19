@@ -2,7 +2,7 @@
 
 返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
-Linux losetup命令用于设置循环设备。
+Linux losetup 命令用于设置循环设备。
 
 循环设备可把文件虚拟成区块设备，籍以模拟整个文件系统，让用户得以将其视为硬盘驱动器，光驱或软驱等设备，并挂入当作目录来使用。
 
@@ -49,7 +49,7 @@ $ losetup -d /dev/loop1
 
 一个完整测试实例
 
-\1. 首先创建一个 1G 大小的空文件：
+1. 首先创建一个 1G 大小的空文件：
 
 ```
 # dd if=/dev/zero of=loopfile.img bs=1G count=1
@@ -58,21 +58,21 @@ $ losetup -d /dev/loop1
 1073741824 bytes (1.1 GB) copied, 69.3471 s, 15.5 MB/s
 ```
 
-\2. 对该文件格式化为 ext4 格式：
+2. 对该文件格式化为 ext4 格式：
 
 ```
 # mkfs.ext4 loopfile.img
 。。。。
 ```
 
-\3. 用 file 命令查看下格式化后的文件类型：
+3. 用 file 命令查看下格式化后的文件类型：
 
 ```
 # file loopfile.img
 loopfile.img: Linux rev 1.0 ext4 filesystem data, UUID=a9dfb4a0-6653-4407-ae05-7044d92c1159 (extents) (large files) (huge files)
 ```
 
-\4. 准备将上面的文件挂载起来：
+4. 准备将上面的文件挂载起来：
 
 ```
 # mkdir /mnt/loopback
@@ -97,7 +97,7 @@ mount 命令的 -o loop 选项可以将任意一个 loopback 文件系统挂载�
 # fdisk /dev/loop1
 ```
 
-\6. 卸载挂载点：
+6. 卸载挂载点：
 
 ```
 # umount /mnt/loopback
