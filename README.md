@@ -57,23 +57,21 @@
 | [e2fsck](https://github.com/ahuang007/Linux-Command/blob/master/e2fsck.md) | [fsck](https://github.com/ahuang007/Linux-Command/blob/master/fsck.md) | [sfdisk](https://github.com/ahuang007/Linux-Command/blob/master/sfdisk.md) |
 | [fsck.minix](https://github.com/ahuang007/Linux-Command/blob/master/fsck.minix.md) | [fsck.ext2](https://github.com/ahuang007/Linux-Command/blob/master/fsck.ext2.md) | [fdformat](https://github.com/ahuang007/Linux-Command/blob/master/fdformat.md) |
 | [mkfs](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.md) | [mke2fs](https://github.com/ahuang007/Linux-Command/blob/master/mke2fs.md) | [mkfs.ext2](https://github.com/ahuang007/Linux-Command/blob/master/mkfs.ext2.md) |
-| [losetup](https://github.com/ahuang007/Linux-Command/blob/master/losetup.md) | [mkinitrd](https://github.com/ahuang007/Linux-Command/blob/master/mkinitrd.md) |                                                              |
+| [losetup](https://github.com/ahuang007/Linux-Command/blob/master/losetup.md) | [mkinitrd](https://github.com/ahuang007/Linux-Command/blob/master/mkinitrd.md) | [fdisk](https://github.com/ahuang007/Linux-Command/blob/master/fdisk.md) |
 | [mkswap](https://github.com/ahuang007/Linux-Command/blob/master/mkswap.md) | [swapon](https://github.com/ahuang007/Linux-Command/blob/master/swapon.md) | [swapoff](https://github.com/ahuang007/Linux-Command/blob/master/swapoff.md) |
-| [mkfs.minix](https://github.com/ahuang007/Linux-Command/blob/master/minix.md) | [sync](https://github.com/ahuang007/Linux-Command/blob/master/sync.md) | [fdisk](https://github.com/ahuang007/Linux-Command/blob/master/fdisk.md) |
+| [mkfs.minix](https://github.com/ahuang007/Linux-Command/blob/master/minix.md) | [sync](https://github.com/ahuang007/Linux-Command/blob/master/sync.md) |                                                              |
 
 ## 6 网络通讯
 
-| [apachectl](https://github.com/ahuang007/Linux-Command/blob/master/apachectl.md) | [arpwatch](https://github.com/ahuang007/Linux-Command/blob/master/arpwatch.md) | [dip](https://github.com/ahuang007/Linux-Command/blob/master/dip.md) |
+| [apachectl](https://github.com/ahuang007/Linux-Command/blob/master/apachectl.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [smbclient](https://github.com/ahuang007/Linux-Command/blob/master/smbclient.md) | [mingetty](https://github.com/ahuang007/Linux-Command/blob/master/mingetty.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) |
+| [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
 | [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) | [statserial](https://github.com/ahuang007/Linux-Command/blob/master/statserial.md) |
 | [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [netconfig](https://github.com/ahuang007/Linux-Command/blob/master/netconfig.md) | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
 | [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) | [minicom](https://github.com/ahuang007/Linux-Command/blob/master/minicom.md) |
-| [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) |                                                              | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
+| [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) | [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
 | [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) | [pppstats](https://github.com/ahuang007/Linux-Command/blob/master/pppstats.md) |
 | [samba](https://github.com/ahuang007/Linux-Command/blob/master/samba.md) | [setserial](https://github.com/ahuang007/Linux-Command/blob/master/setserial.md) | [talk](https://github.com/ahuang007/Linux-Command/blob/master/talk.md) |
-| [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
-| [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) | [netconf](https://github.com/ahuang007/Linux-Command/blob/master/netconf.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
 
 ## 7 系统管理
 
