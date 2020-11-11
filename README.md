@@ -67,11 +67,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
 | [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) |                                                              |
-| [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) |                                                              | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
-| [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) | [minicom](https://github.com/ahuang007/Linux-Command/blob/master/minicom.md) |
-| [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) | [shapecfg](https://github.com/ahuang007/Linux-Command/blob/master/shapecfg.md) | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
-| [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) | [pppstats](https://github.com/ahuang007/Linux-Command/blob/master/pppstats.md) |
-| [samba](https://github.com/ahuang007/Linux-Command/blob/master/samba.md) | [setserial](https://github.com/ahuang007/Linux-Command/blob/master/setserial.md) | [talk](https://github.com/ahuang007/Linux-Command/blob/master/talk.md) |
+| [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [samba](https://github.com/ahuang007/Linux-Command/blob/master/samba.md) | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
+| [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) |                                                              |
+| [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) | [setserial](https://github.com/ahuang007/Linux-Command/blob/master/setserial.md) | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
+| [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) |                                                              |
 
 ## 7 系统管理
 
