@@ -1,6 +1,6 @@
 # Linux fsck.minix 命令
 
-Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
 
 Linux fsck.minix 命令用于检查文件系统并尝试修复错误。
 
@@ -22,4 +22,4 @@ fsck.minix [-aflmrsv][外围设备代号]
 - -s 显示该分区第一个磁区的相关信息。
 - -v 显示指令执行过程。
 
-Linux 命令大全](https://ahuang007.github.com/Linux-Command)
+返回 [Linux 命令大全](https://ahuang007.github.com/Linux-Command)
