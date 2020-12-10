@@ -53,7 +53,7 @@ declare -x XDG_SESSION_ID="20000"
 定义环境变量赋值
 
 ```
-# export MYENV=7 //定义环境变量并赋值
+[root@localhost ~]# export MYENV=7 //定义环境变量并赋值
 [root@localhost ~]# export -p
 declare -x HISTCONTROL="ignoredups"
 declare -x HISTSIZE="1000"
