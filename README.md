@@ -66,11 +66,10 @@
 | [apachectl](https://github.com/ahuang007/Linux-Command/blob/master/apachectl.md) | [testparm](https://github.com/ahuang007/Linux-Command/blob/master/tesparm.md) | [write](https://github.com/ahuang007/Linux-Command/blob/master/write.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [traceroute](https://github.com/ahuang007/Linux-Command/blob/master/traceroute.md) | [tty](https://github.com/ahuang007/Linux-Command/blob/master/tty.md) | [newaliases](https://github.com/ahuang007/Linux-Command/blob/master/newaliases.md) |
-| [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) |                                                              |
+| [telnet](https://github.com/ahuang007/Linux-Command/blob/master/telnet.md) | [tcpdump](https://github.com/ahuang007/Linux-Command/blob/master/tcpdump.md) | [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) |
 | [smbd](https://github.com/ahuang007/Linux-Command/blob/master/smbd.md) | [samba](https://github.com/ahuang007/Linux-Command/blob/master/samba.md) | [netcat](https://github.com/ahuang007/Linux-Command/blob/master/netcat.md) |
-| [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) |                                                              |
+| [httpd](https://github.com/ahuang007/Linux-Command/blob/master/httpd.md) | [ifconfig](https://github.com/ahuang007/Linux-Command/blob/master/ifconfig.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) |
 | [mesg](https://github.com/ahuang007/Linux-Command/blob/master/mesg.md) | [setserial](https://github.com/ahuang007/Linux-Command/blob/master/setserial.md) | [wall](https://github.com/ahuang007/Linux-Command/blob/master/wall.md) |
-| [netstat](https://github.com/ahuang007/Linux-Command/blob/master/netstat.md) | [ping](https://github.com/ahuang007/Linux-Command/blob/master/ping.md) |                                                              |
 
 ## 7 系统管理
 
@@ -84,12 +83,11 @@
 | [ps](https://github.com/ahuang007/Linux-Command/blob/master/ps.md) | [nice](https://github.com/ahuang007/Linux-Command/blob/master/nice.md) | [groupadd](https://github.com/ahuang007/Linux-Command/blob/master/groupadd.md) |
 | [top](https://github.com/ahuang007/Linux-Command/blob/master/top.md) | [rlogin](https://github.com/ahuang007/Linux-Command/blob/master/rlogin.md) | [reboot](https://github.com/ahuang007/Linux-Command/blob/master/reboot.md) |
 | [screen](https://github.com/ahuang007/Linux-Command/blob/master/screen.md) | [shutdown](https://github.com/ahuang007/Linux-Command/blob/master/shutdown.md) | [w](https://github.com/ahuang007/Linux-Command/blob/master/w.md) |
-| [sudo](https://github.com/ahuang007/Linux-Command/blob/master/sudo.md) |                                                              |                                                              |
+| [sudo](https://github.com/ahuang007/Linux-Command/blob/master/sudo.md) | [su](https://github.com/ahuang007/Linux-Command/blob/master/su.md) | [skill](https://github.com/ahuang007/Linux-Command/blob/master/skill.md) |
 | [tload](https://github.com/ahuang007/Linux-Command/blob/master/tload.md) | [logrotate](https://github.com/ahuang007/Linux-Command/blob/master/logrotate.md) | [uname](https://github.com/ahuang007/Linux-Command/blob/master/uname.md) |
-| [chsh](https://github.com/ahuang007/Linux-Command/blob/master/chsh.md) |                                                              | [userdel](https://github.com/ahuang007/Linux-Command/blob/master/userdel.md) |
+| [chsh](https://github.com/ahuang007/Linux-Command/blob/master/chsh.md) | [renice](https://github.com/ahuang007/Linux-Command/blob/master/renice.md) | [userdel](https://github.com/ahuang007/Linux-Command/blob/master/userdel.md) |
 | [usermod](https://github.com/ahuang007/Linux-Command/blob/master/usermod.md) | [vlock](https://github.com/ahuang007/Linux-Command/blob/master/vlock.md) | [who](https://github.com/ahuang007/Linux-Command/blob/master/who.md) |
 | [whoami](https://github.com/ahuang007/Linux-Command/blob/master/whoami.md) | [free](https://github.com/ahuang007/Linux-Command/blob/master/free.md) | [newgrp](https://github.com/ahuang007/Linux-Command/blob/master/newgrp.md) |
-| [renice](https://github.com/ahuang007/Linux-Command/blob/master/renice.md) | [su](https://github.com/ahuang007/Linux-Command/blob/master/su.md) | [skill](https://github.com/ahuang007/Linux-Command/blob/master/skill.md) |
 
 ## 8 系统设置
 
@@ -100,16 +98,14 @@
 | [declare](https://github.com/ahuang007/Linux-Command/blob/master/declare.md) | [depmod](https://github.com/ahuang007/Linux-Command/blob/master/depmod.md) | [dmesg](https://github.com/ahuang007/Linux-Command/blob/master/dmesg.md) |
 | [enable](https://github.com/ahuang007/Linux-Command/blob/master/enable.md) | [eval](https://github.com/ahuang007/Linux-Command/blob/master/eval.md) | [export](https://github.com/ahuang007/Linux-Command/blob/master/export.md) |
 | [pwunconv](https://github.com/ahuang007/Linux-Command/blob/master/pwunconv.md) | [grpconv](https://github.com/ahuang007/Linux-Command/blob/master/grpconv.md) | [rpm](https://github.com/ahuang007/Linux-Command/blob/master/rpm.md) |
-| [insmod](https://github.com/ahuang007/Linux-Command/blob/master/insmod.md) | [kbdconfig](https://github.com/ahuang007/Linux-Command/blob/master/kbdconfig.md) | [mkkickstart](https://github.com/ahuang007/Linux-Command/blob/master/mkkickstart.md) |
-| [liloconfig](https://github.com/ahuang007/Linux-Command/blob/master/liloconfig.md) | [lsmod](https://github.com/ahuang007/Linux-Command/blob/master/lsmod.md) | [minfo](https://github.com/ahuang007/Linux-Command/blob/master/minfo.md) |
-| [set](https://github.com/ahuang007/Linux-Command/blob/master/set.md) | [modprobe](https://github.com/ahuang007/Linux-Command/blob/master/modprobe.md) | [ntsysv](https://github.com/ahuang007/Linux-Command/blob/master/ntsysv.md) |
-| [fbset](https://github.com/ahuang007/Linux-Command/blob/master/fbset.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
+| [insmod](https://github.com/ahuang007/Linux-Command/blob/master/insmod.md) | [lsmod](https://github.com/ahuang007/Linux-Command/blob/master/lsmod.md) | [minfo](https://github.com/ahuang007/Linux-Command/blob/master/minfo.md) |
+| [set](https://github.com/ahuang007/Linux-Command/blob/master/set.md) | [modprobe](https://github.com/ahuang007/Linux-Command/blob/master/modprobe.md) | [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) |
+| [chkconfig](https://github.com/ahuang007/Linux-Command/blob/master/chkconfig.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
 | [rdate](https://github.com/ahuang007/Linux-Command/blob/master/rdate.md) | [resize](https://github.com/ahuang007/Linux-Command/blob/master/resize.md) | [rmmod](https://github.com/ahuang007/Linux-Command/blob/master/rmmod.md) |
 | [grpunconv](https://github.com/ahuang007/Linux-Command/blob/master/grpunconv.md) | [modinfo](https://github.com/ahuang007/Linux-Command/blob/master/modinfo.md) | [time](https://github.com/ahuang007/Linux-Command/blob/master/time.md) |
 | [setup](https://github.com/ahuang007/Linux-Command/blob/master/setup.md) | [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [setenv](https://github.com/ahuang007/Linux-Command/blob/master/setenv.md) |
 | [setconsole](https://github.com/ahuang007/Linux-Command/blob/master/setconsole.md) | [SVGATextMode](https://github.com/ahuang007/Linux-Command/blob/master/SVGATextMode.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
-| [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) | [chkconfig](https://github.com/ahuang007/Linux-Command/blob/master/chkconfig.md) | [apmd](https://github.com/ahuang007/Linux-Command/blob/master/apmd.md) |
-| [hwclock](https://github.com/ahuang007/Linux-Command/blob/master/hwclock.md) |                                                              |                                                              |
+| [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) |                                                              |                                                              |
 
 ## 9 备份压缩
 
