@@ -103,8 +103,7 @@
 | [chkconfig](https://github.com/ahuang007/Linux-Command/blob/master/chkconfig.md) | [passwd](https://github.com/ahuang007/Linux-Command/blob/master/passwd.md) | [pwconv](https://github.com/ahuang007/Linux-Command/blob/master/pwconv.md) |
 | [rdate](https://github.com/ahuang007/Linux-Command/blob/master/rdate.md) | [resize](https://github.com/ahuang007/Linux-Command/blob/master/resize.md) | [rmmod](https://github.com/ahuang007/Linux-Command/blob/master/rmmod.md) |
 | [grpunconv](https://github.com/ahuang007/Linux-Command/blob/master/grpunconv.md) | [modinfo](https://github.com/ahuang007/Linux-Command/blob/master/modinfo.md) | [time](https://github.com/ahuang007/Linux-Command/blob/master/time.md) |
-| [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) | [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [setenv](https://github.com/ahuang007/Linux-Command/blob/master/setenv.md) |
-| [setconsole](https://github.com/ahuang007/Linux-Command/blob/master/setconsole.md) | [SVGATextMode](https://github.com/ahuang007/Linux-Command/blob/master/SVGATextMode.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
+| [unset](https://github.com/ahuang007/Linux-Command/blob/master/unset.md) | [unalias](https://github.com/ahuang007/Linux-Command/blob/master/unalias.md) | [ulimit](https://github.com/ahuang007/Linux-Command/blob/master/ulimit.md) |
 
 ## 9 备份压缩
 
