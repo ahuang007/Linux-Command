@@ -109,11 +109,10 @@
 
 | [ar](https://github.com/ahuang007/Linux-Command/blob/master/ar.md) | [bunzip2](https://github.com/ahuang007/Linux-Command/blob/master/bunzip2.md) | [bzip2](https://github.com/ahuang007/Linux-Command/blob/master/bzip2.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [bzip2recover](https://github.com/ahuang007/Linux-Command/blob/master/bzip2recover.md) | [gunzip](https://github.com/ahuang007/Linux-Command/blob/master/gunzip.md) | [unarj](https://github.com/ahuang007/Linux-Command/blob/master/unarj.md) |
+| [bzip2recover](https://github.com/ahuang007/Linux-Command/blob/master/bzip2recover.md) | [gunzip](https://github.com/ahuang007/Linux-Command/blob/master/gunzip.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/unzip.md) |
 | [compress](https://github.com/ahuang007/Linux-Command/blob/master/compress.md) | [cpio](https://github.com/ahuang007/Linux-Command/blob/master/cpio.md) | [dump](https://github.com/ahuang007/Linux-Command/blob/master/dump.md) |
 | [zip](https://github.com/ahuang007/Linux-Command/blob/master/zip.md) | [gzexe](https://github.com/ahuang007/Linux-Command/blob/master/gzexe.md) | [gzip](https://github.com/ahuang007/Linux-Command/blob/master/gzip.md) |
-| [lha](https://github.com/ahuang007/Linux-Command/blob/master/lha.md) | [restore](https://github.com/ahuang007/Linux-Command/blob/master/restore.md) | [tar](https://github.com/ahuang007/Linux-Command/blob/master/tar.md) |
-| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/zipinfo.md) | [unzip](https://github.com/ahuang007/Linux-Command/blob/master/unzip.md) |                                                              |
+| [zipinfo](https://github.com/ahuang007/Linux-Command/blob/master/zipinfo.md) | [restore](https://github.com/ahuang007/Linux-Command/blob/master/restore.md) | [tar](https://github.com/ahuang007/Linux-Command/blob/master/tar.md) |
 
 ## 10 设置管理
 
