@@ -116,9 +116,9 @@
 
 ## 10 设置管理
 
-| [setleds](https://github.com/ahuang007/Linux-Command/blob/master/setleds.md) | [loadkeys](https://github.com/ahuang007/Linux-Command/blob/master/loadkeys.md) | [rdev](https://github.com/ahuang007/Linux-Command/blob/master/rdev.md) |
+| [setleds](https://github.com/ahuang007/Linux-Command/blob/master/setleds.md) | [loadkeys](https://github.com/ahuang007/Linux-Command/blob/master/loadkeys.md) | [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/dumpkeys.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [dumpkeys](https://github.com/ahuang007/Linux-Command/blob/master/dumpkeys.md) | [MAKEDEV](https://github.com/ahuang007/Linux-Command/blob/master/MAKEDEV.md) |                                                              |
+|                                                              |                                                              |                                                              |
 
 ## 11 其他命令
 
