@@ -8,7 +8,7 @@ iostat是I/O statistics（输入/输出统计）的缩写。
 
 iostat 主要用于输出磁盘IO 和 CPU的统计信息。
 
-iostat属于sysstat软件包。可以用yum install sysstat 直接安装。
+iostat属于sysstat软件包。可以用 `yum install sysstat` 直接安装。
 
 ## iostat 用法
 
