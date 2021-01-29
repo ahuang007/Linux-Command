@@ -129,5 +129,5 @@
 | [lsof](https://github.com/ahuang007/Linux-Command/blob/master/lsof.md) | [iostat](https://github.com/ahuang007/Linux-Command/blob/master/iostat.md) | [vmstat](https://github.com/ahuang007/Linux-Command/blob/master/vmstat.md) |
 | [pstack](https://github.com/ahuang007/Linux-Command/blob/master/pstack.md) | [strace](https://github.com/ahuang007/Linux-Command/blob/master/strace.md) | [gdb](https://github.com/ahuang007/Linux-Command/blob/master/gdb.md) |
 | [ip](https://github.com/ahuang007/Linux-Command/blob/master/ip.md) | [nohup](https://github.com/ahuang007/Linux-Command/blob/master/nohup.md) | [killall](https://github.com/ahuang007/Linux-Command/blob/master/killall.md) |
-| [pkill](https://github.com/ahuang007/Linux-Command/blob/master/pkill.md) |                                                              |                                                              |
+| [pkill](https://github.com/ahuang007/Linux-Command/blob/master/pkill.md) | [pstree](https://github.com/ahuang007/Linux-Command/blob/master/pstree.md) |                                                              |
 
