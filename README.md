@@ -36,7 +36,7 @@
 
 | [lprm](https://github.com/ahuang007/Linux-Command/blob/master/lprm.md) | [lpr](https://github.com/ahuang007/Linux-Command/blob/master/lpr.md) | [lpq](https://github.com/ahuang007/Linux-Command/blob/master/lpq.md) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [bye](https://github.com/ahuang007/Linux-Command/blob/master/bye.md) |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
 ## 4 磁盘管理
 
